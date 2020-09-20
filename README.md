@@ -44,5 +44,5 @@
 #### Find me in social media
 [![Github](https://img.shields.io/badge/-Github-black?style=flat&labelColor=black&logo=github&logoColor=white "Github")](https://github.com/nancyalaswad90 "Github")
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white "LinkedIn")](https://www.linkedin.com/in/nancy-al-aswad-b001b4124/ "LinkedIn")
-[[!Twitter](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white "Instagram")](https://twitter.com/AswadNancy?s=03)
+[![Twitter](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white "Instagram")](https://twitter.com/AswadNancy?s=03)
 
