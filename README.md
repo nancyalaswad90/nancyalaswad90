@@ -40,7 +40,8 @@
 | ------------------------------------------------------------------------ | ------------------------------------------------------------- |
 | ![Gharib's github stats](https://github-readme-stats.vercel.app/api?username=nancyalaswad90&show_icons=true&theme=algolia&count_private=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nancyalaswad90&theme=algolia) |
 
-#### Find me in social media
+
+
 #### Find me in social media
 [![Github](https://img.shields.io/badge/-Github-black?style=flat&labelColor=black&logo=github&logoColor=white "Github")](https://github.com/nancyalaswad90 "Github")
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white "LinkedIn")](https://www.linkedin.com/in/nancy-al-aswad-b001b4124/ "LinkedIn")
