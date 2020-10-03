@@ -16,8 +16,8 @@
 - 🔭 I studied many programs as **Product Manager, Growth Product Manager, Ux, Data Analyst**, and I share them all [Here](https://github.com/nancyalaswad90?tab=repositories)
 - 🌱 I’m currently learning and Practicing  **Math, Machine Learning, Deep Learning, Computer vision**
 - 👯 Looking for an **internship or opportunity.**
-- 💬 Ask me about: I am always ready to help at my best 
-- 📫 How to reach me: www.linkedin.com/in/nancy-al-aswad-b001b4124
+- 💬 Ask me about: **I am always ready to help at my best .**
+- 📫 How to reach me: **www.linkedin.com/in/nancy-al-aswad-b001b4124**
 - 😄 Pronouns: Friend :open_hands:
 - ⚡ I’m currently studying **[Machine Learning Engineer Nanodegree](https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009t)**
 
