@@ -5,8 +5,14 @@
 </p>
 
 
+.
 
 
+![gitwork](https://user-images.githubusercontent.com/36210723/94987193-0053d400-056d-11eb-97d2-f0319bbe27f6.jpg)
+
+
+
+.
 
 
 - 🔭 I’m currently studying [Machine Learning Engineer Nanodegree](https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009t) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
