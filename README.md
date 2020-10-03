@@ -15,13 +15,13 @@
 .
 
 
-- 🔭 I’m currently studying [Machine Learning Engineer Nanodegree](https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009t) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 🌱 I’m currently learning Everything
-- 👯 I’m looking to collaborate on Web 🕸 Applications 
+- 🔭 I studied 
+- 🌱 I’m currently learning and Practice  Math , Machine Learning ,Deep Learning , Commputer vision 
+- 👯 Looking for an internship or opportunity.
 - 💬 Ask me about : I am always ready to help at my best 
-- 📫 How to reach me: nancyalaswad90@gmail.com
+- 📫 How to reach me: www.linkedin.com/in/nancy-al-aswad-b001b4124
 - 😄 Pronouns: Friend :open_hands:
-- ⚡ Fun fact: I still work as an accountant  
+- ⚡ I’m currently studying [Machine Learning Engineer Nanodegree](https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009t) <img 
 
 
 
