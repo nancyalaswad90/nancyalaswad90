@@ -12,6 +12,8 @@
 - ⚡ I’m currently studying **[Machine Learning Engineer Nanodegree](https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009t)**
 
 
+
+**[Nominate me as GitHub Star 🌟](https://stars.github.com/nominate/)**
 .
 
 ### Languages and tools
