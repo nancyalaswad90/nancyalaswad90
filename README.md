@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning and Practicing  **Math, Machine Learning, Deep Learning, Computer vision**
 - 👯 Looking for an **internship or opportunity.**
 - 💬 Ask me about: **I am always ready to help.**
-- 📫 How to reach me: **[linkedin](www.linkedin.com/in/nancy-al-aswad-b001b4124) ,[Kaggle](https://www.kaggle.com/nancyalaswad90) , [hackerrank](https://www.hackerrank.com/nancyalaswad90) ,[UpWork ](https://www.upwork.com/o/profiles/users/~01aea1b28cadcbe913/)**
+- 📫 How to reach me: **[linkedin](www.linkedin.com/in/nancy-al-aswad-b001b4124) ,[Kaggle](https://www.kaggle.com/nancyalaswad90) , [hackerrank](https://www.hackerrank.com/nancyalaswad90) ,[UpWork ](https://www.upwork.com/o/profiles/users/~01aea1b28cadcbe913/) , [Fiverr](https://www.fiverr.com/nancyalaswad?public_mode=true)**
 - ⚡ I’m currently studying **[Generative Adversarial Networks (GANs) Specialization](https://github.com/nancyalaswad90/Generative_Adversarial_Networks)**
 
 
