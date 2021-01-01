@@ -1,6 +1,6 @@
 
 
-> ## 💡  Happy new year :tada: :tada: :tada: :tada:
+> ## 💡  Happy new year :tada: :tada: :tada: :tada:
 
 
 
