@@ -3,7 +3,7 @@
 > ## 💡  Happy new year :tada: :tada: :tada: :tada:
 
 
-> ![sizehappy](https://user-images.githubusercontent.com/36210723/103446095-56c3d200-4c84-11eb-8fd9-ae0c640ad9c9.png)
+> ![new happy](https://user-images.githubusercontent.com/36210723/103446106-87a40700-4c84-11eb-8616-f4ee170a5653.png)
 
 
 .
