@@ -1,10 +1,4 @@
 
-
-> # 💡  Happy new year :tada: :tada: :tada: :tada:
-
- ![new happy](https://user-images.githubusercontent.com/36210723/103446106-87a40700-4c84-11eb-8616-f4ee170a5653.png)
-
-
 .
 
 
