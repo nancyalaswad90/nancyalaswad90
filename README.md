@@ -2,15 +2,15 @@
 
 > # 💡  Happy new year :tada: :tada: :tada: :tada:
 
-
-> ![new happy](https://user-images.githubusercontent.com/36210723/103446106-87a40700-4c84-11eb-8616-f4ee170a5653.png)
+ ![new happy](https://user-images.githubusercontent.com/36210723/103446106-87a40700-4c84-11eb-8616-f4ee170a5653.png)
 
 
 .
 
 
 ### Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2> 
-[gitwork](https://user-images.githubusercontent.com/36210723/94987193-0053d400-056d-11eb-97d2-f0319bbe27f6.jpg)
+
+> [gitwork](https://user-images.githubusercontent.com/36210723/94987193-0053d400-056d-11eb-97d2-f0319bbe27f6.jpg)
 
 
 .
