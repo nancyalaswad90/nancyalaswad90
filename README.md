@@ -13,7 +13,7 @@
 - 👯 Looking for an **internship or opportunity.**
 - 💬 Ask me about: **I am always ready to help.**
 - 📫 How to reach me: **[linkedin](www.linkedin.com/in/nancy-al-aswad-b001b4124) ,[Kaggle](https://www.kaggle.com/nancyalaswad90) , [hackerrank](https://www.hackerrank.com/nancyalaswad90) ,[UpWork ](https://www.upwork.com/o/profiles/users/~01aea1b28cadcbe913/) , [Guru](https://www.guru.com/pro/ProfileBuild.aspx?tab=5&pscount=0) , [Fiverr](https://www.fiverr.com/nancyalaswad?public_mode=true) , [LeetCode](https://leetcode.com/Nancy_Al_Aswad90/) , [Corporate Finance Institute® (CFI) Profile](https://dashboard.corporatefinanceinstitute.com/my-profile/)**
-- ⚡ I’m currently studying **Java**
+- ⚡ I’m currently studying **[Java](https://github.com/nancyalaswad90/Project-for-Vehicle-Accident-Application/blob/main/README.md)**
 
 
 
