@@ -14,8 +14,7 @@
 - 👯 Looking for an **internship or opportunity.**
 - 💬 Ask me about: **I am always ready to help.**
 - 📫 How to reach me: **[linkedin](www.linkedin.com/in/nancy-al-aswad-b001b4124) ,[Kaggle](https://www.kaggle.com/nancyalaswad90) , [hackerrank](https://www.hackerrank.com/nancyalaswad90) ,[UpWork ](https://www.upwork.com/o/profiles/users/~01aea1b28cadcbe913/) , [Guru](https://www.guru.com/pro/ProfileBuild.aspx?tab=5&pscount=0) , [Fiverr](https://www.fiverr.com/nancyalaswad?public_mode=true), [Power BI](https://app.powerbi.com/home?noSignUpCheck=1&redirectedFromSignup=1&username=2180385@s.aou.edu.jo&AutomaticLogin=true) , [LeetCode](https://leetcode.com/Nancy_Al_Aswad90/) , [Corporate Finance Institute® (CFI) Profile](https://dashboard.corporatefinanceinstitute.com/my-profile/) , [IMA ](https://imalc.mycrowdwisdom.com/diweb/mylearning/)**
-- ⚡ I’m currently studying **[Java](https://github.com/nancyalaswad90/Project-for-Vehicle-Accident-Application/blob/main/README.md)**  and , LinkedIn Program for [Data Analyst Path](https://github.com/nancyalaswad90/LinkedIn-Program-for-Data-Analyst-Path) , [Become a Project Manager](https://www.linkedin.com/learning/paths/become-a-project-manager)
-
+- ⚡ I’m currently studying **[Java](https://github.com/nancyalaswad90/Project-for-Vehicle-Accident-Application/blob/main/README.md)**  and , LinkedIn Program for [Data Analyst Path](https://github.com/nancyalaswad90/LinkedIn-Program-for-Data-Analyst-Path) , [Become a Project Manager](https://github.com/nancyalaswad90/Project-Manager-Certifications/blob/main/README.md)
 
 
 ### **[Nominate me as GitHub Star 🌟](https://stars.github.com/nominate/)**
