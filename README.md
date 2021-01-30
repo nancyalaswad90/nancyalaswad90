@@ -9,7 +9,7 @@
 
 - 🌝 Hi, I'm Data Analyst💻 from Jordan and  Currently, I'm working as a freelancer.
 
-- 🔭 I completed many programs as **Product Manager, Growth Product Manager, Ux, Data Analyst**, and I share them all [Here](https://github.com/nancyalaswad90?tab=repositories)
+- 🔭 I completed many programs as **Product Manager, Growth Product Manager, Ux, Data Analyst**, and I share them all  [Here](https://github.com/nancyalaswad90?tab=repositories)
 - 🌱 I’m currently learning and Practicing  **Math, Machine Learning, Deep Learning, Computer vision**
 - 👯 Looking for an **internship or opportunity.**
 - 💬 Ask me about: **I am always ready to help.**
