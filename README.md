@@ -42,9 +42,9 @@
  | ------------ | 
 
 
-|  | | **[School of  Artificial Intelligence](https://www.udacity.com/school-of-ai)** | **School of Programming & Development**| **School of Cloud Computing**|**School of  Autonomous Systems**| 
+| **[linkedin](www.linkedin.com/in/nancy-al-aswad-b001b4124)** | **[Kaggle](https://www.kaggle.com/nancyalaswad90)** | **[School of  Artificial Intelligence](https://www.udacity.com/school-of-ai)** | **School of Programming & Development**| **School of Cloud Computing**|**School of  Autonomous Systems**| 
 
-|  | | **[School of  Artificial Intelligence](https://www.udacity.com/school-of-ai)** | **School of Programming & Development**| **School of Cloud Computing**|**School of  Autonomous Systems**| 
+|| | **[School of  Artificial Intelligence](https://www.udacity.com/school-of-ai)** | **School of Programming & Development**| **School of Cloud Computing**|**School of  Autonomous Systems**| 
 | ------------ | ------------ | ------------ |------------ | ------------ | ------------ |
 
 
@@ -52,7 +52,7 @@
 
 
 
-**[linkedin](www.linkedin.com/in/nancy-al-aswad-b001b4124) ,[Kaggle](https://www.kaggle.com/nancyalaswad90) , [hackerrank](https://www.hackerrank.com/nancyalaswad90) ,[UpWork ](https://www.upwork.com/o/profiles/users/~01aea1b28cadcbe913/) , [Guru](https://www.guru.com/pro/ProfileBuild.aspx?tab=5&pscount=0) , [Fiverr](https://www.fiverr.com/nancyalaswad?public_mode=true), [Power BI](https://github.com/nancyalaswad90/Power-BI) , [LeetCode](https://leetcode.com/Nancy_Al_Aswad90/) , [Corporate Finance Institute® (CFI) Profile](https://dashboard.corporatefinanceinstitute.com/my-profile/) , [IMA ](https://imalc.mycrowdwisdom.com/diweb/mylearning/)**
+ , , [hackerrank](https://www.hackerrank.com/nancyalaswad90) ,[UpWork ](https://www.upwork.com/o/profiles/users/~01aea1b28cadcbe913/) , [Guru](https://www.guru.com/pro/ProfileBuild.aspx?tab=5&pscount=0) , [Fiverr](https://www.fiverr.com/nancyalaswad?public_mode=true), [Power BI](https://github.com/nancyalaswad90/Power-BI) , [LeetCode](https://leetcode.com/Nancy_Al_Aswad90/) , [Corporate Finance Institute® (CFI) Profile](https://dashboard.corporatefinanceinstitute.com/my-profile/) , [IMA ](https://imalc.mycrowdwisdom.com/diweb/mylearning/)**
 
 
 
