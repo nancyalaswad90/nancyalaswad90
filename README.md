@@ -42,21 +42,11 @@
  | ------------ | 
 
 
-|**[linkedin](www.linkedin.com/in/nancy-al-aswad-b001b4124)** | **[UpWork ](https://www.upwork.com/o/profiles/users/~01aea1b28cadcbe913/)** | **[Guru](https://www.guru.com/pro/ProfileBuild.aspx?tab=5&pscount=0)** | **[Fiverr](https://www.fiverr.com/nancyalaswad?public_mode=true)** |**[Power BI](https://github.com/nancyalaswad90/Power-BI)** |**[LeetCode](https://leetcode.com/Nancy_Al_Aswad90/) **|
+|**[linkedin](www.linkedin.com/in/nancy-al-aswad-b001b4124)** | **[UpWork ](https://www.upwork.com/o/profiles/users/~01aea1b28cadcbe913/)** | **[Guru](https://www.guru.com/pro/ProfileBuild.aspx?tab=5&pscount=0)** | **[Fiverr](https://www.fiverr.com/nancyalaswad?public_mode=true)** |**[Power BI](https://github.com/nancyalaswad90/Power-BI)** |**[Twitter](https://twitter.com/AswadNancy?s=03/ "Twitter")**|
 | ------------ | ------------ | ------------ |------------ | ------------ | ------------ |
-|**[Kaggle](https://www.kaggle.com/nancyalaswad90)**| **[hackerrank](https://www.hackerrank.com/nancyalaswad90) ** | **[Corporate Finance Institute® (CFI) Profile](https://dashboard.corporatefinanceinstitute.com/my-profile/)** |**[IMA ](https://imalc.mycrowdwisdom.com/diweb/mylearning/)**** | ------------ | ------------ |
+|**[Kaggle](https://www.kaggle.com/nancyalaswad90)**| **[hackerrank](https://www.hackerrank.com/nancyalaswad90)** | **[Corporate Finance Institute® (CFI) Profile](https://dashboard.corporatefinanceinstitute.com/my-profile/)** |**[IMA ](https://imalc.mycrowdwisdom.com/diweb/mylearning/)** | **[LeetCode](https://leetcode.com/Nancy_Al_Aswad90/)** | ------------ |
 | ------------ | ------------ | ------------ |------------ | ------------ | ------------ |
 .
-
-
-
- , , , ,  , ,  , ,  , 
-
-
-
-
-
-
 
 
 
@@ -69,7 +59,7 @@
 
 [![Github](https://img.shields.io/badge/-Github-black?style=flat&labelColor=black&logo=github&logoColor=white "Github")](https://github.com/nancyalaswad90 "Github")
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white "LinkedIn")](https://www.linkedin.com/in/nancy-al-aswad-b001b4124/ "LinkedIn")
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&labelColor=blue&logo=twitter&logoColor=white "Twitter")](https://twitter.com/AswadNancy?s=03/ "Twitter")
+
 
 
 
