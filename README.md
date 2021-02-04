@@ -23,7 +23,7 @@
  | ------------ | 
 
 | **[School of Business](https://github.com/nancyalaswad90/The-School-of-Business/blob/main/README.md)** | **[School of Data Science](https://github.com/nancyalaswad90/School-of-Data-Science/blob/main/README.md)** | **[School of  Artificial Intelligence](https://www.udacity.com/school-of-ai)** | **School of Programming & Development**| **School of Cloud Computing**|**School of  Autonomous Systems**| 
-| ------------ | ------------ | ------------ |------------ | ------------ | ------------ |
+
 
 
 .
@@ -42,10 +42,8 @@
  | ------------ | 
 
 | **[linkedin](www.linkedin.com/in/nancy-al-aswad-b001b4124) | ------------ | ------------ |------------ | ------------ | ------------ |
-
 | **[linkedin](www.linkedin.com/in/nancy-al-aswad-b001b4124) | ------------ | ------------ |------------ | ------------ | ------------ |
-
-
+| ------------ | ------------ | ------------ |------------ | ------------ | ------------ |
 .
 
 
