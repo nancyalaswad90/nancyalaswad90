@@ -42,9 +42,7 @@
  | ------------ | 
 
 | ------------ | ------------ | ------------ |------------ | ------------ | ------------ |
-| **[linkedin](www.linkedin.com/in/nancy-al-aswad-b001b4124)** | **[Kaggle](https://www.kaggle.com/nancyalaswad90)** | **[linkedin](www.linkedin.com/in/nancy-al-aswad-b001b4124)**  |  **[linkedin](www.linkedin.com/in/nancy-al-aswad-b001b4124)** | **[linkedin](www.linkedin.com/in/nancy-al-aswad-b001b4124)** |* **[linkedin](www.linkedin.com/in/nancy-al-aswad-b001b4124)** | 
 
-|| | **[School of  Artificial Intelligence](https://www.udacity.com/school-of-ai)** | **School of Programming & Development**| **School of Cloud Computing**|**School of  Autonomous Systems**| 
 | ------------ | ------------ | ------------ |------------ | ------------ | ------------ |
 
 
