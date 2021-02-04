@@ -8,8 +8,8 @@
 - 🌝 Hi, I'm Data Analyst💻 from Jordan and  Currently, I'm working as a freelancer.
 
 - 🔭 I completed many programs as **Product Manager, Growth Product Manager, Ux, Data Analyst**, and I share them all  [Here](https://github.com/nancyalaswad90?tab=repositories)
-- 🌱 I’m currently learning and Practicing  **Math, Machine Learning, Deep Learning, Computer vision**
-- 📫 How to reach me: **[linkedin](www.linkedin.com/in/nancy-al-aswad-b001b4124) ,[Kaggle](https://www.kaggle.com/nancyalaswad90) , [hackerrank](https://www.hackerrank.com/nancyalaswad90) ,[UpWork ](https://www.upwork.com/o/profiles/users/~01aea1b28cadcbe913/) , [Guru](https://www.guru.com/pro/ProfileBuild.aspx?tab=5&pscount=0) , [Fiverr](https://www.fiverr.com/nancyalaswad?public_mode=true), [Power BI](https://github.com/nancyalaswad90/Power-BI) , [LeetCode](https://leetcode.com/Nancy_Al_Aswad90/) , [Corporate Finance Institute® (CFI) Profile](https://dashboard.corporatefinanceinstitute.com/my-profile/) , [IMA ](https://imalc.mycrowdwisdom.com/diweb/mylearning/)**
+- 🌱 I’m currently Practicing  **Math, Machine Learning, Deep Learning, Computer vision**
+
 - ⚡ I’m currently studying **[Java](https://github.com/nancyalaswad90/Project-for-Vehicle-Accident-Application/blob/main/README.md)**  and , LinkedIn Program for [Data Analyst Path](https://github.com/nancyalaswad90/LinkedIn-Program-for-Data-Analyst-Path), [Power BI](https://github.com/nancyalaswad90/Power-BI) , [Project Manager Path](https://github.com/nancyalaswad90/Project-Manager-Certifications/blob/main/README.md)
 
 
