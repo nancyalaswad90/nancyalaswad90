@@ -22,7 +22,7 @@
 | **[ Online Education for each School](https://github.com/nancyalaswad90/ONLINE-EDUCATION-for-each-School/blob/main/README.md)**|
  | ------------ | 
 
-| **[School of Business](https://github.com/nancyalaswad90/The-School-of-Business/blob/main/README.md)** | **SCHOOL OF Data Science** | **[SCHOOL OF Artificial Intelligence](https://www.udacity.com/school-of-ai)** | **SCHOOL OF Programming & Development**| **SCHOOL OF Cloud Computing**|**SCHOOL OF Autonomous Systems**| 
+| **[School of Business](https://github.com/nancyalaswad90/The-School-of-Business/blob/main/README.md)** | **School of Data Science** | **[School of  Artificial Intelligence](https://www.udacity.com/school-of-ai)** | **School of Programming & Development**| **School of Cloud Computing**|**School of  Autonomous Systems**| 
 | ------------ | ------------ | ------------ |------------ | ------------ | ------------ |
 
 
