@@ -55,9 +55,9 @@
 
 
 
-| ** 💡  Annual Intenship**|
+| **💡  Annual Intenship**|
  | ------------ | 
 
 
-|**[Kaggle](https://www.kaggle.com/nancyalaswad90)**| **[hackerrank](https://www.hackerrank.com/nancyalaswad90)** | **[Corporate Finance Institute® (CFI) Profile](https://dashboard.corporatefinanceinstitute.com/my-profile/)** |**[IMA ](https://imalc.mycrowdwisdom.com/diweb/mylearning/)** | **[LeetCode](https://leetcode.com/Nancy_Al_Aswad90/)** | ------------ |
+| | **[hackerrank](https://www.hackerrank.com/nancyalaswad90)** | **[Corporate Finance Institute® (CFI) Profile](https://dashboard.corporatefinanceinstitute.com/my-profile/)** |**[IMA ](https://imalc.mycrowdwisdom.com/diweb/mylearning/)** | **[LeetCode](https://leetcode.com/Nancy_Al_Aswad90/)** | ------------ |
 | ------------ | ------------ | ------------ |------------ | ------------ | ------------ |
