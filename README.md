@@ -59,5 +59,5 @@
  | ------------ | 
 
 
-| | **[hackerrank](https://www.hackerrank.com/nancyalaswad90)** | **[Corporate Finance Institute® (CFI) Profile](https://dashboard.corporatefinanceinstitute.com/my-profile/)** |**[IMA ](https://imalc.mycrowdwisdom.com/diweb/mylearning/)** | **[LeetCode](https://leetcode.com/Nancy_Al_Aswad90/)** | ------------ |
+| **[Outreachy Internship](https://www.outreachy.org/docs/internship/)**| **-------------** | **-------------**  |**-------------**  | **[LeetCode](https://leetcode.com/Nancy_Al_Aswad90/)** | ------------ |
 | ------------ | ------------ | ------------ |------------ | ------------ | ------------ |
