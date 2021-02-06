@@ -59,5 +59,5 @@
  | ------------ | 
 
 
-| **[Outreachy Internship](https://www.outreachy.org/docs/internship/) in Feb & **| **-------------** | **-------------**  |**-------------**  | **[LeetCode](https://leetcode.com/Nancy_Al_Aswad90/)** | ------------ |
+| **[Outreachy Internship](https://www.outreachy.org/docs/internship/) in Feb &**| **-------------** | **-------------**  |**-------------**  | **[LeetCode](https://leetcode.com/Nancy_Al_Aswad90/)** | ------------ |
 | ------------ | ------------ | ------------ |------------ | ------------ | ------------ |
