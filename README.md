@@ -29,6 +29,13 @@
 .
 
 
+| **[School of Business](https://github.com/nancyalaswad90/The-School-of-Business/blob/main/README.md)** | **[School of Data Science](https://github.com/nancyalaswad90/School-of-Data-Science/blob/main/README.md)** | **[School of  Artificial Intelligence](https://www.udacity.com/school-of-ai)** | **School of Programming & Development**| **School of Cloud Computing**|**School of  Autonomous Systems**| 
+| ------------ | ------------ | ------------ |------------ | ------------ | ------------ |
+
+
+
+.
+
 
 
 |![Gharib's github stats](https://github-readme-stats.vercel.app/api?username=nancyalaswad90&show_icons=true&theme=algolia&count_private=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nancyalaswad90&theme=algolia)|
