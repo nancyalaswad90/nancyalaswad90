@@ -36,7 +36,7 @@
 | **😄 Languages and tools**|
  | ------------ | 
 
-| **[Python](https://courses.corporatefinanceinstitute.com/courses/take/machine-learning-python-fundamentals/lessons/8001960-welcome-to-python-fundamentals)** | **[Java](https://github.com/nancyalaswad90/Project-for-Vehicle-Accident-Application/blob/main/README.md)**  | **SQL** | **HTML**| **CSS**|**JavaScript**| 
+| **[Python](https://github.com/nancyalaswad90/Python-Courses)** | **[Java](https://github.com/nancyalaswad90/Project-for-Vehicle-Accident-Application/blob/main/README.md)**  | **SQL** | **HTML**| **CSS**|**JavaScript**| 
 | ------------ | ------------ | ------------ |------------ | ------------ | ------------ |
 
 
