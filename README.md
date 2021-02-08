@@ -5,7 +5,7 @@
 > ![gitwork](https://user-images.githubusercontent.com/36210723/94987193-0053d400-056d-11eb-97d2-f0319bbe27f6.jpg)
 
 
-- 🌝 Hi, I'm Data Analyst💻 from Jordan and  Currently, I'm working as a freelancer.
+- 🌝 😄 Hi, I'm Data Analyst💻 from Jordan and  Currently, I'm working as a freelancer.
 
 - 🔭 I completed many programs as **Product Manager, Growth Product Manager, Ux, Data Analyst**, and I share them all  [Here](https://github.com/nancyalaswad90?tab=repositories)
 - 🌱 I’m currently Practicing  **Math, Machine Learning, Deep Learning, Computer vision**
@@ -33,7 +33,7 @@
 
 
 
-| **Languages and tools**|
+| **😄 Languages and tools**|
  | ------------ | 
 
 | **[School of Business](https://github.com/nancyalaswad90/The-School-of-Business/blob/main/README.md)** | **[School of Data Science](https://github.com/nancyalaswad90/School-of-Data-Science/blob/main/README.md)** | **[School of  Artificial Intelligence](https://www.udacity.com/school-of-ai)** | **School of Programming & Development**| **School of Cloud Computing**|**School of  Autonomous Systems**| 
