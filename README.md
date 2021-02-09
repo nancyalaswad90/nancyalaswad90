@@ -36,8 +36,8 @@
 | **😄 Languages and tools**|
  | ------------ | 
 
-| **[Python](https://github.com/nancyalaswad90/Python-Courses)** | **[Java](https://github.com/nancyalaswad90/Project-for-Vehicle-Accident-Application/blob/main/README.md)**  | **SQL** | **HTML**| **CSS**|**JavaScript**| 
-| ------------ | ------------ | ------------ |------------ | ------------ | ------------ |
+| **[Python](https://github.com/nancyalaswad90/Python-Courses)** | **[Java](https://github.com/nancyalaswad90/Project-for-Vehicle-Accident-Application/blob/main/README.md)**  | **SQL** | **HTML**| **CSS**|**JavaScript**| **R** | ------------ | ------------ |
+| ------------ | ------------ | ------------ |------------ | ------------ | ------------ |------------ | ------------ | ------------ |
 
 
 
