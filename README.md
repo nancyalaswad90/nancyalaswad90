@@ -10,7 +10,7 @@
 - 🔭 I completed many programs as **Product Manager, Growth Product Manager, Ux, Data Analyst**, and I share them all  [Here](https://github.com/nancyalaswad90?tab=repositories)
 - 🌱 I’m currently Practicing  **Math, Machine Learning, Deep Learning, Computer vision**
 
-- ⚡ I’m currently studying **[Java](https://github.com/nancyalaswad90/Project-for-Vehicle-Accident-Application/blob/main/README.md)**  and , LinkedIn Program for [Data Analyst Path](https://github.com/nancyalaswad90/LinkedIn-Program-for-Data-Analyst-Path), [Power BI](https://github.com/nancyalaswad90/Power-BI) , [Prepare for the CompTIA Network+ (N10-007) Certification](https://github.com/nancyalaswad90/Prepare-for-the-CompTIA-Network-N10-007-Certification/blob/main/README.md)
+- ⚡ I’m currently studying **[Java](https://github.com/nancyalaswad90/Project-for-Vehicle-Accident-Application/blob/main/README.md)**  and , LinkedIn Program for [Data Analyst Path](https://github.com/nancyalaswad90/LinkedIn-Program-for-Data-Analyst-Path), [Power BI](https://github.com/nancyalaswad90/Power-BI) , [Prepare for the CompTIA Network+ (N10-007) Certification](https://github.com/nancyalaswad90/Prepare-for-the-CompTIA-Network-N10-007-Certification/blob/main/README.md) ,[Become a Digital Marketing Specialist](https://www.linkedin.com/learning/paths/become-a-digital-marketing-specialist)
 
 
 ### **[Nominate me as GitHub Star 🌟](https://stars.github.com/nominate/)**
