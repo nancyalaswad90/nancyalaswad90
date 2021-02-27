@@ -10,7 +10,7 @@
 - 🔭 I completed many programs as **Product Manager, Growth Product Manager, Ux, Data Analyst**, and I share them all  [Here](https://github.com/nancyalaswad90?tab=repositories)
 - 🌱 I’m currently Practicing  **Math, Machine Learning, Deep Learning, Computer vision**
 
-- ⚡ I’m currently studying **[Java](https://github.com/nancyalaswad90/Project-for-Vehicle-Accident-Application/blob/main/README.md)**  and , LinkedIn Program for [Become a Graphic Designer](https://www.linkedin.com/learning/paths/become-a-graphic-designer),[Become a Digital Marketing Specialist](https://www.linkedin.com/learning/paths/become-a-digital-marketing-specialist)
+- ⚡ I’m currently studying **[Java](https://github.com/nancyalaswad90/Project-for-Vehicle-Accident-Application/blob/main/README.md)**  and , LinkedIn Program for [Become a Digital Marketing Specialist](https://www.linkedin.com/learning/paths/become-a-digital-marketing-specialist)
 
 
 
