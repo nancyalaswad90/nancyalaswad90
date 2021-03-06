@@ -7,6 +7,10 @@
 
 - 😄 Hi, I'm Data Analyst💻 from Jordan and  Currently, I'm working as a freelancer.
 
+
+> ![banner2 (2).gif](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/399095/1615054263/banner2__2_.gif)
+
+
 - 🔭 I completed many programs as **Product Manager, Growth Product Manager, Ux, Data Analyst**, and I share them all  [Here](https://github.com/nancyalaswad90?tab=repositories)
 - 🌱 I’m currently Practicing  **Math, Machine Learning, Deep Learning, Computer vision**
 
