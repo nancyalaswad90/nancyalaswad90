@@ -1,5 +1,3 @@
-
-
 ### Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2> 
 
    >...... ![banner2 (2).gif](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/399095/1615054263/banner2__2_.gif)
