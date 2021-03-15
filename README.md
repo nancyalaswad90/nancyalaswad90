@@ -59,9 +59,6 @@
 .
 
 
-   > ..................... ![banner2 (2).gif](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/399095/1615054263/banner2__2_.gif)
-   > 
-
 
 | **📫 How to reach me**|
  | ------------ | 
