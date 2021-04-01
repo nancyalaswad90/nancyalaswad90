@@ -2,6 +2,8 @@
 ### Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2> 
 
 
+## [How to use my GitHub repository to gain internship & Valuable certifications](https://www.youtube.com/watch?v=0_dGOhZnLMg)
+
 > ![gitwork](https://user-images.githubusercontent.com/36210723/94987193-0053d400-056d-11eb-97d2-f0319bbe27f6.jpg)
 
 
