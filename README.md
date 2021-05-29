@@ -18,6 +18,10 @@
 - 🌱 I’m currently Practicing  **Math, Machine Learning, Deep Learning, Computer vision**
 
 - ⚡ I’m currently studying **[Google Data Analytics Certificate](https://grow.google/dataanalytics/#?modal_active=none)**  and , [Google Africa Developer](https://www.pluralsight.com/partners/google/africa/gads-2021?aid=7014Q0000023RnOQAU&oid=&promo=&utm_campaign=&utm_content=&utm_medium=partner_partner_web_referral&utm_source=&utm_term=) Scholarship for [Associate Cloud Engineer](https://app.pluralsight.com/profile/nancy-aswad) .
+
+
+
+
 .
 
 
