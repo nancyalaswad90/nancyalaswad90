@@ -17,8 +17,7 @@
 - 🔭 I completed many programs as **Product Manager, Growth Product Manager, Ux, Data Analyst**, and I share them all  [Here](https://github.com/nancyalaswad90?tab=repositories)
 - 🌱 I’m currently Practicing  **Math, Machine Learning, Deep Learning, Computer vision**
 
-- ⚡ I’m currently studying **[Google Data Analytics Certificate](https://grow.google/dataanalytics/#?modal_active=none)**  and , [Google Africa Developer](https://www.pluralsight.com/partners/google/africa/gads-2021?aid=7014Q0000023RnOQAU&oid=&promo=&utm_campaign=&utm_content=&utm_medium=partner_partner_web_referral&utm_source=&utm_term=) Scholarship for [Associate Cloud Engineer](https://app.pluralsight.com/profile/nancy-aswad) , and LinkedIn Program for [Become IT Support / Help Desk](https://www.linkedin.com/learning/paths/prepare-for-the-comptia-a-plus-certification-220-1001-and-220-1002?trk=lilblog_06-30-20_msft-announcement-reskilling-linkedin-learning_learning)
-
+- ⚡ I’m currently studying **[Google Data Analytics Certificate](https://grow.google/dataanalytics/#?modal_active=none)**  and , [Google Africa Developer](https://www.pluralsight.com/partners/google/africa/gads-2021?aid=7014Q0000023RnOQAU&oid=&promo=&utm_campaign=&utm_content=&utm_medium=partner_partner_web_referral&utm_source=&utm_term=) Scholarship for [Associate Cloud Engineer](https://app.pluralsight.com/profile/nancy-aswad) .
 .
 
 
