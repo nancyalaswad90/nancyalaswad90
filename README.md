@@ -86,7 +86,7 @@
  | ------------ | 
 
 
-| **[Outreachy Internship](https://www.outreachy.org/docs/internship/) in Feb & Aug**| **[Kaggle BIPOC Grant Program](https://www.kaggle.com/bipoc-grant-application)** | **[Google Africa Developer Scholarship](https://www.pluralsight.com/partners/google/africa/gads-2021?aid=7014Q0000023RnOQAU&oid=&promo=&utm_campaign=&utm_content=&utm_medium=partner_partner_web_referral&utm_source=&utm_term=)**  |**-------------**  | **[LeetCode](https://leetcode.com/Nancy_Al_Aswad90/)** | ------------ |
+| **[Outreachy Internship](https://www.outreachy.org/docs/internship/) in Feb & Aug**| **[Kaggle BIPOC Grant Program](https://www.kaggle.com/bipoc-grant-application)** | **[Google Africa Developer Scholarship](https://www.pluralsight.com/partners/google/africa/gads-2021?aid=7014Q0000023RnOQAU&oid=&promo=&utm_campaign=&utm_content=&utm_medium=partner_partner_web_referral&utm_source=&utm_term=)**  |**[GOOGLE CAREER Certifications](https://grow.google/certificates/?utm_source=gDigital&utm_medium=programgn&utm_campaign=gn&utm_content&utm_term#?modal_active=none)**  | **[LeetCode](https://leetcode.com/Nancy_Al_Aswad90/)** | ------------ |
 | ------------ | ------------ | ------------ |------------ | ------------ | ------------ |
 
 
