@@ -73,7 +73,6 @@
 | ------------ | ------------ | ------------ |------------ | ------------ | ------------ |
 |**[Kaggle](https://www.kaggle.com/nancyalaswad90)**| **[hackerrank](https://www.hackerrank.com/nancyalaswad90)** | **[Corporate Finance Institute® (CFI) Profile](https://dashboard.corporatefinanceinstitute.com/my-profile/)** |**[IMA ](https://imalc.mycrowdwisdom.com/diweb/mylearning/)** | **[LeetCode](https://leetcode.com/Nancy_Al_Aswad90/)** | [Stack overflow](https://stackoverflow.com/users/12555055/nancy-al-aswad) |
 | [data Camp](https://learn.datacamp.com/career-tracks) | [Google Developers](https://developers.google.com/profile/u/116039305746026612185) | ------------ |------------ | ------------ | ------------ |
-
 | ------------ | ------------ | ------------ |------------ | ------------ | ------------ |
 
 
