@@ -48,7 +48,7 @@
 | **😄 Languages and tools**|
  | ------------ | 
 
-| **[Python](https://github.com/nancyalaswad90/Python-Courses)** | **[Java](https://github.com/nancyalaswad90/Project-for-Vehicle-Accident-Application/blob/main/README.md)**  | **[SQL](https://github.com/nancyalaswad90/nancyalaswad90/blob/master/Certification%20as%20Oracle%20developer%20professional%20.md)** | **HTML**| **CSS**|**JavaScript**| **R** | [Tableau ](https://public.tableau.com/profile/nancy.al.aswad#!/) | [Power BI](https://github.com/nancyalaswad90/Power-BI) |[OpenRefine](https://openrefine.org/) |
+| **[SQL](https://github.com/nancyalaswad90/nancyalaswad90/blob/master/Certification%20as%20Oracle%20developer%20professional%20.md)** | **[Java](https://github.com/nancyalaswad90/Project-for-Vehicle-Accident-Application/blob/main/README.md)**  | **[Python](https://github.com/nancyalaswad90/Python-Courses)**| **HTML**| **CSS**|**JavaScript**| **R** | [Tableau ](https://public.tableau.com/profile/nancy.al.aswad#!/) | [Power BI](https://github.com/nancyalaswad90/Power-BI) |[OpenRefine](https://openrefine.org/) |
 | ------------ | ------------ | ------------ |------------ | ------------ | ------------ |------------ | ------------ | ------------ |------------ |
 
 
