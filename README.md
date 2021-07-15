@@ -24,7 +24,7 @@
 | **😄Academic Certification**|
  | ------------ | 
  
-| **[Master Accounting]()** | **[Information Technology and Computing / `Undergraduate`]()** |**[SQL as OCP developer ](https://github.com/nancyalaswad90/nancyalaswad90/blob/master/Certification%20as%20Oracle%20developer%20professional%20.md)** |*....* | *....*  | 
+| **[Master Accounting]()** | **[Information Technology and Computing / `Undergraduate`](https://github.com/nancyalaswad90/nancyalaswad90/blob/master/second%20.md)** |**[SQL as OCP developer ](https://github.com/nancyalaswad90/nancyalaswad90/blob/master/Certification%20as%20Oracle%20developer%20professional%20.md)** |*....* | *....*  | 
 |------------ |------------ | ------------ | ------------ |------------ |
 
 .
