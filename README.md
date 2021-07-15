@@ -21,16 +21,9 @@
 
 
 
-| **😄Academic Certification **|
+| **😄Academic Certification**|
  | ------------ | 
-
-| **[SQL as OCP developer ](https://github.com/nancyalaswad90/nancyalaswad90/blob/master/Certification%20as%20Oracle%20developer%20professional%20.md)** |**[Python](https://github.com/nancyalaswad90/Python-Courses)**|  [Tableau ](https://public.tableau.com/profile/nancy.al.aswad#!/) | [Power BI](https://github.com/nancyalaswad90/Power-BI) |[OpenRefine](https://openrefine.org/) |**[Java](https://github.com/nancyalaswad90/Project-for-Vehicle-Accident-Application/blob/main/README.md)**  | **....**| **....**|**....**| *....* |
-
-
-.
-
-
-| ------------ | ------------ | ------------ |------------ | ------------ | 
+| ------------ | ------------ |**[SQL as OCP developer ](https://github.com/nancyalaswad90/nancyalaswad90/blob/master/Certification%20as%20Oracle%20developer%20professional%20.md)** |*....* | *....*  | 
 |------------ |------------ | ------------ | ------------ |------------ |
 
 .
