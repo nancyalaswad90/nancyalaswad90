@@ -4,6 +4,7 @@
 
 .
 
-> ![Second bacalor](https://user-images.githubusercontent.com/36210723/125790418-02ce9aec-5e07-45fe-8ee5-202a121b43ff.png)
+> ![Second bacalor](https://user-images.githubusercontent.com/36210723/125790753-b6518979-2d7d-4ae4-ac66-d3971287fa08.png)
+
 .
 
