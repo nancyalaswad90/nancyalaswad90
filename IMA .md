@@ -20,6 +20,7 @@ The material presented explains the basic components and uses of the Statement o
 
 .
 
+![Statement of Cash Flows Tutorial](https://user-images.githubusercontent.com/36210723/125935674-99c9051f-6969-452a-83a4-efeee606c199.png)
 
 .
 
