@@ -72,8 +72,8 @@
 
 |**[linkedin](https://www.linkedin.com/in/nancy-al-aswad-b001b4124/)** |**[Twitter](https://twitter.com/AswadNancy?s=03/ "Twitter")**| **[UpWork ](https://www.upwork.com/o/profiles/users/~01aea1b28cadcbe913/)** | **[Guru](https://www.guru.com/pro/ProfileBuild.aspx?tab=5&pscount=0)** | **[Fiverr](https://www.fiverr.com/nancyalaswad?public_mode=true)** |**[Power BI](https://github.com/nancyalaswad90/Power-BI)** |
 | ------------ | ------------ | ------------ |------------ | ------------ | ------------ |
-|**[Kaggle](https://www.kaggle.com/nancyalaswad90)**| **[hackerrank](https://www.hackerrank.com/nancyalaswad90)** | **[Corporate Finance Institute® (CFI) Profile](https://dashboard.corporatefinanceinstitute.com/my-profile/)** |**[IMA ](https://github.com/nancyalaswad90/IMA-Accounting-Certifications)** | **[LeetCode](https://leetcode.com/Nancy_Al_Aswad90/)** | [Stack overflow](https://stackoverflow.com/users/12555055/nancy-al-aswad) |
-| [data Camp](https://learn.datacamp.com/career-tracks) | [Google Developers](https://developers.google.com/profile/u/116039305746026612185) | ------------ |------------ | ------------ | ------------ |
+|**[Kaggle](https://www.kaggle.com/nancyalaswad90)**| **[hackerrank](https://www.hackerrank.com/nancyalaswad90)** | **[freelancer](https://www.freelancer.com/u/nancyalaswad90)** | **[Corporate Finance Institute® (CFI) Profile](https://dashboard.corporatefinanceinstitute.com/my-profile/)** |**[IMA ](https://github.com/nancyalaswad90/IMA-Accounting-Certifications)** | **[LeetCode](https://leetcode.com/Nancy_Al_Aswad90/)** | [Stack overflow](https://stackoverflow.com/users/12555055/nancy-al-aswad) |
+| [data Camp](https://learn.datacamp.com/career-tracks) | [Google Developers](https://developers.google.com/profile/u/116039305746026612185) | ------------ | ------------ | ------------ |
 | ------------ | ------------ | ------------ |------------ | ------------ | ------------ |
 
 
