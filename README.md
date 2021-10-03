@@ -25,7 +25,7 @@
 | **😄Academic Certification**|
  | ------------ | 
  
-| **[Master & First Bachelor as Accounting ](https://github.com/nancyalaswad90/nancyalaswad90/blob/master/%D8%A7%D9%84%D8%AC%D8%A7%D9%85%D8%B9%D8%A7%D8%AA.pdf)** | **[ Second Bachelor : Information Technology and Computing / `Undergraduate`](https://github.com/nancyalaswad90/nancyalaswad90/blob/master/second%20.md)** | *....*|**[SQL as OCP developer ](https://github.com/nancyalaswad90/nancyalaswad90/blob/master/Certification%20as%20Oracle%20developer%20professional%20.md)** | *....*  | 
+| **[Master & First Bachelor as Accounting ](https://github.com/nancyalaswad90/nancyalaswad90/blob/master/%D8%A7%D9%84%D8%AC%D8%A7%D9%85%D8%B9%D8%A7%D8%AA.pdf)** | **[ Second Bachelor : Information Technology and Computing / `Undergraduate`](https://github.com/nancyalaswad90/nancyalaswad90/blob/master/second%20.md)** | *....*|**[SQL as OCP developer ](https://github.com/nancyalaswad90/nancyalaswad90/blob/master/Certification%20as%20Oracle%20developer%20professional%20.md)** | *[Medical Laboratory]()*  | 
 |------------ |------------ | ------------ | ------------ |------------ |
 
 .
