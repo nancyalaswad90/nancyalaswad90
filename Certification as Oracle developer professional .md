@@ -1,28 +1,40 @@
-
-
-# [Certification as Oracle developer professional  ](https://github.com/nancyalaswad90/Certifications/blob/main/Certification%20as%20Oracle%20developer%20professional%20%20.md)
-
-
-> - [Fundimental}
-
-.
-
-> ![fundimental.jpg](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/399095/1626345824/fundimental.jpg)
-
-
-.
-
-> ![pl-sql.jpg](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/399095/1626345838/pl-sql.jpg)
-
-
 .
 
 
-> ![form.jpg](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/399095/1626345843/form.jpg)
+
+> ## Programming Certifications
 
 
 
-.
+   =======================================
+   
+   
+
+- Certification as Oracle developer professional  : [Fundimental](https://github.com/nancyalaswad90/Certifications/blob/main/Certification%20as%20FundimentalOracle%20developer%20professional%20%20.md) & [Pl-Sql.](https://github.com/nancyalaswad90/Certifications/blob/main/Certification%20as%20pl-sql.%20Oracle%20developer%20professional%20.md) & [form](https://github.com/nancyalaswad90/Certifications/blob/main/Certification%20as%20form%20Oracle%20developer%20professional%20.md)
+
+
+- [Oracle Essentials Application R12](https://github.com/nancyalaswad90/Certifications/blob/main/Oracle%20Essentials%20Application%20R12.md)
+
+
+
+- [Oracle General Ledger Application R12](https://github.com/nancyalaswad90/Certifications/blob/main/Oracle%20General%20Ledger%20Application%20R12.md)
+
+
+- [Oracle Report Developer 10g](https://github.com/nancyalaswad90/Certifications/blob/main/Oracle%20Report%20Developer%2010g.md)
+
+
+
+- [Oracle Forms Developer 10g](https://github.com/nancyalaswad90/Certifications/blob/main/Oracle%20Forms%20Developer%2010g.md)
+
+
+
+- [Oracle Database 12c](https://github.com/nancyalaswad90/Certifications/blob/main/Oracle%20Database%2012c.md)
+
+
+
+
+
+=======================================================================
 
 
 
