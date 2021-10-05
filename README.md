@@ -7,7 +7,7 @@
 >   ## [How to use my GitHub repository to gain internship & Valuable certifications](https://www.youtube.com/watch?v=0_dGOhZnLMg) 😄
 
 
-> ## [Self Education for Data Analyst](https://github.com/Self-Education-for-Business-analyst)
+> ## [My Repository for Self Education for Data Analyst](https://github.com/Self-Education-for-Business-analyst)
 
 
 
