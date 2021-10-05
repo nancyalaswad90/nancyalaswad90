@@ -20,7 +20,7 @@
 
 
 
-## > [datacamp](https://campus.datacamp.com/courses/introduction-to-sql/selecting-columns?ex=10)
+> ## [datacamp](https://campus.datacamp.com/courses/introduction-to-sql/selecting-columns?ex=10)
 
 
-## > [sqliteonline(https://sqliteonline.com/)
+> ## [sqliteonline(https://sqliteonline.com/)
