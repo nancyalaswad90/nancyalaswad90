@@ -54,3 +54,15 @@
 
 
 .
+
+
+
+
+| ** Online Education Platforms **|
+ | ------------ | 
+
+| **[Data Camp](https://campus.datacamp.com/courses/introduction-to-sql/selecting-columns?ex=10)** | [Sqlite Online](https://sqliteonline.com/) | **------------** |  **------------**|  **------------**| **------------**| 
+| ------------ | ------------ | ------------ |------------ | ------------ | ------------ |
+
+
+.
