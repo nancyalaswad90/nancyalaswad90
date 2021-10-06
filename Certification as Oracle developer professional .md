@@ -45,7 +45,7 @@
 | **Online Education Platforms**|
  | ------------ | 
 
-| **[Data Camp](https://campus.datacamp.com/courses/introduction-to-sql/selecting-columns?ex=10)** | [Sqlite Online](https://sqliteonline.com/) | **------------** |  **------------**|  **------------**| **------------**| 
+| **[Data Camp](https://campus.datacamp.com/courses/introduction-to-sql/selecting-columns?ex=10)** | [Sqlite Online](https://sqliteonline.com/) | **[Udacity SQL for Data Analysis](https://classroom.udacity.com/courses/ud198)** |  **------------**|  **------------**| **------------**| 
 | ------------ | ------------ | ------------ |------------ | ------------ | ------------ |
 
 
