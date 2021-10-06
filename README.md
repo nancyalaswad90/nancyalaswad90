@@ -8,7 +8,7 @@
 
 
 
-> ## [My Repository for Self Education for Data Analyst](https://github.com/Self-Education-for-Business-analyst)
+> ## [My Repository for `Self Education for Data Analyst`](https://github.com/Self-Education-for-Business-analyst)
 
 
 
