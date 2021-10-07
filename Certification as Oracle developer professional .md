@@ -50,3 +50,11 @@
 
 
 .
+
+> - This tool [http://www.sql-format.com/](https://sql-format.com/) might help format the SQL queries for readability.
+
+
+
+.
+
+![2021-10-07_144145](https://user-images.githubusercontent.com/36210723/136399642-b13485e9-23a2-4a9e-bc57-ee912e9ba04d.png)
