@@ -1,6 +1,24 @@
 
 
 
+.
+
+
+ # [Arab Open University //  Information Technology and Computing   ](https://mdl.arabou.edu.kw/jordan/(
+
+
+
+
+
+=======================
+
+
+
+> ## First Term (( 10/2021 )) 
+
+.
+
+
 
 .
 
