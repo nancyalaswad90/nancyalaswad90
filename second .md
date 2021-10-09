@@ -4,7 +4,7 @@
 .
 
 
- # [Arab Open University //  Information Technology and Computing   ](https://mdl.arabou.edu.kw/jordan/(
+ # [Arab Open University //  Information Technology and Computing   ](https://mdl.arabou.edu.kw/jordan/)
 
 
 
@@ -17,8 +17,18 @@
 > ## First Term (( 10/2021 )) 
 
 .
+![First Tearm](https://user-images.githubusercontent.com/36210723/136666191-d6d41535-e9ff-4f86-82d2-f013820e499c.png)
 
 
+
+.
+
+
+
+
+-------------------------
+
+> ## Second Term  (( 2 /2021 )) 
 
 .
 
