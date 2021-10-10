@@ -79,7 +79,7 @@
 |**[linkedin](https://www.linkedin.com/in/nancy-al-aswad-b001b4124/)** |**[Twitter](https://twitter.com/AswadNancy?s=03/ "Twitter")**| **[UpWork ](https://www.upwork.com/o/profiles/users/~01aea1b28cadcbe913/)** | **[Guru](https://www.guru.com/pro/ProfileBuild.aspx?tab=5&pscount=0)** | **[Fiverr](https://www.fiverr.com/nancyalaswad?public_mode=true)** |**[Power BI](https://github.com/nancyalaswad90/Power-BI)** |
 | ------------ | ------------ | ------------ |------------ | ------------ | ------------ |
 |**[Kaggle](https://www.kaggle.com/nancyalaswad90)**| **[hackerrank](https://www.hackerrank.com/nancyalaswad90)** | **[freelancer](https://www.freelancer.com/u/nancyalaswad90)** | **[Corporate Finance Institute® (CFI) Profile](https://dashboard.corporatefinanceinstitute.com/my-profile/)** |**[IMA ](https://github.com/nancyalaswad90/IMA-Accounting-Certifications)** | **[LeetCode](https://leetcode.com/Nancy_Al_Aswad90/)** | [Stack overflow](https://stackoverflow.com/users/12555055/nancy-al-aswad) |
-| [data Camp](https://learn.datacamp.com/career-tracks) | [Google Developers](https://developers.google.com/profile/u/116039305746026612185) | [Stack overflow](https://stackoverflow.com/users/12555055/nancy-al-aswad) | [SoloLearn ]() | ------------ |
+| [data Camp](https://learn.datacamp.com/career-tracks) | [Google Developers](https://developers.google.com/profile/u/116039305746026612185) | [Stack overflow](https://stackoverflow.com/users/12555055/nancy-al-aswad) | [SoloLearn ]() |**[Cisco Networking Academy](https://www.cisco.com/c/m/en_sg/partners/cisco-networking-academy/index.html#~networking-essentials)|
 | ------------ | ------------ | ------------ |------------ | ------------ | ------------ |
 
 
@@ -96,7 +96,7 @@
 
 
 | **[Outreachy Internship](https://www.outreachy.org/docs/internship/) in Feb & Aug**| **[Women Who Code Scholarship ](https://github.com/nancyalaswad90/nancyalaswad90/blob/master/Women%20Who%20Code%20Scholarship%20.md)** | **[WQU Team](https://wqu-ds.tditrain.com/hub/home#info)**  |**[GOOGLE CAREER Certifications](https://grow.google/certificates/?utm_source=gDigital&utm_medium=programgn&utm_campaign=gn&utm_content&utm_term#?modal_active=none)**  | **[LeetCode](https://leetcode.com/Nancy_Al_Aswad90/)** | **[Microsoft & LinkedIn  Certifications](https://www.elmin7a.com/free-courses-offered-by-microsoft-and-linkedin-with-free-certificates/)** |
-| **[Cisco Networking Academy](https://www.cisco.com/c/m/en_sg/partners/cisco-networking-academy/index.html#~networking-essentials) | ------------ | ------------ |------------ | ------------ | ------------ |
+| ------------- | ------------ | ------------ |------------ | ------------ | ------------ |
 
 
 .
