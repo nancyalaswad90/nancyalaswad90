@@ -51,12 +51,17 @@
 
 .
 
+
+
 > - This tool [http://www.sql-format.com/](https://sql-format.com/) might help format the SQL queries for readability.
 
 
 
 .
 
+
+
+.
 
 > ## Online Education Platforms بالعربي 
 
