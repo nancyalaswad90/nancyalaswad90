@@ -58,3 +58,12 @@
 .
 
 
+
+
+1- SQL 101 مبتدئ https://satr.codes/courses/FtkmhtJpQW/view
+
+2- SQL 102 متوسط https://satr.codes/courses/APjgdQqVWR/view
+
+3- SQL 103 متقدم https://satr.codes/courses/bOXiOFzkMv/view
+
+
