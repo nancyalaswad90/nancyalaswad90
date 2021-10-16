@@ -58,6 +58,15 @@
 .
 
 
+> ## Online Education Platforms بالعربي 
+
+
+
+   =======================================
+   
+   
+###  منصة سطر فيها الي تحتاجينه لتعلم SQL:
+
 
 
 1- SQL 101 مبتدئ https://satr.codes/courses/FtkmhtJpQW/view
