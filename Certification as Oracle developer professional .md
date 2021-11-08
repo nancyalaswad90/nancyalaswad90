@@ -84,3 +84,11 @@
 
 
 ###  Mahara-Tech: [Dashboard (GUEST)](https://maharatech.gov.eg/?)
+
+
+
+
+
+. 
+
+https://www.w3schools.com/sql/
