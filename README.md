@@ -99,7 +99,7 @@
 
 | **[Outreachy Internship](https://www.outreachy.org/docs/internship/) in Feb & Aug**| **[Women Who Code Scholarship ](https://github.com/nancyalaswad90/nancyalaswad90/blob/master/Women%20Who%20Code%20Scholarship%20.md)** | **[WQU Team](https://wqu-ds.tditrain.com/hub/home#info)**  |**[GOOGLE CAREER Certifications](https://grow.google/certificates/?utm_source=gDigital&utm_medium=programgn&utm_campaign=gn&utm_content&utm_term#?modal_active=none)**  | **[LeetCode](https://leetcode.com/Nancy_Al_Aswad90/)** | **[Microsoft & LinkedIn  Certifications](https://www.elmin7a.com/free-courses-offered-by-microsoft-and-linkedin-with-free-certificates/)** |
 | ------------- | ------------ | ------------ |------------ | ------------ | ------------ |
-| ------------- | ------------ | ------------ |------------ | ------------ | ------------ |
+|  Scholarships page | ------------ | ------------ |------------ | ------------ | ------------ |
 .
 
 ### **[Nominate me as GitHub Star 🌟](https://stars.github.com/nominate/)**
