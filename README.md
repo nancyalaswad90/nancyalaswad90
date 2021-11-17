@@ -59,7 +59,7 @@
 
 | **[SQL](https://github.com/nancyalaswad90/nancyalaswad90/blob/master/Certification%20as%20Oracle%20developer%20professional%20.md)** |**[Python](https://github.com/nancyalaswad90/Python-Courses)**| **[Statistics](https://github.com/nancyalaswad90/Statistics/blob/main/README.md)** |[Tableau ](https://github.com/nancyalaswad90/Tableau) | [Power BI](https://github.com/nancyalaswad90/nancyalaswad90/blob/master/Power%20BI%20tool.md) |[OpenRefine](https://openrefine.org/) |**[Java](https://github.com/nancyalaswad90/Project-for-Vehicle-Accident-Application/blob/main/README.md)**  | **HTML**| **CSS**|**JavaScript**| **R** | 
 | ------------ | ------------ | ------------ |------------ | ------------ | ------------ |------------ | ------------ | ------------ |------------ |------------ |
-**[Azure ](https://github.com/nancyalaswad90/Azure)** | **[WordPress  ]()** | ------------ |------------ | ------------ | ------------ |------------ | ------------ | ------------ |------------ |------------ |
+**[Azure ](https://github.com/nancyalaswad90/Azure)** | **[WordPress  ](https://github.com/nancyalaswad90/WordPress)** | ------------ |------------ | ------------ | ------------ |------------ | ------------ | ------------ |------------ |------------ |
 
 
 
