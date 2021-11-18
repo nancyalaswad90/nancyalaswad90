@@ -70,7 +70,7 @@
    =======================================
    
    
-###  منصة سطر فيها الي تحتاجينه لتعلم SQL:
+###  منصة سطر فيها الي ما  تحتاج لتعلم SQL:
 
 
 
@@ -89,6 +89,13 @@
 
 
 
+
+
 . 
 
 https://www.w3schools.com/sql/
+
+
+
+
+- SQL for Data Science :  [ Data Science Training ](https://www.youtube.com/watch?v=HjbiIlokvwk)
