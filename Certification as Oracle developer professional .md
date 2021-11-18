@@ -98,4 +98,4 @@ https://www.w3schools.com/sql/
 
 
 
-- SQL for Data Science :  [ Data Science Training Part( 1 )](](https://www.youtube.com/watch?v=HTj7IpsEY5g)) **&**  [Part ( 2 )](https://www.youtube.com/watch?v=HjbiIlokvwk) 
+- SQL for Data Science :  [ Data Science Training Part( 1 )](https://www.youtube.com/watch?v=HTj7IpsEY5g) **&**  [Part ( 2 )](https://www.youtube.com/watch?v=HjbiIlokvwk) 
