@@ -45,12 +45,16 @@
 | **Online Education Platforms**|
  | ------------ | 
 
-| **[Udacity ]()** | [---]() |**[Data Camp]()** |  **[Edureka / What is Power BI ](https://www.youtube.com/watch?v=tg0LhnjTH8Y)**|  **[Great Learning Academy]()**| **[Kaggle/ ]()**| 
+| **[Udacity ]()** | [---]() |**[Data Camp]()** |  **[Edureka ]()**|  **[Great Learning Academy]()**| **[Kaggle/ ]()**| 
 | ------------ | ------------ | ------------ |------------ | ------------ | ------------ |
 
 
 .
 
+> ## Edureka
 
+ - [ What is Power BI ](https://www.youtube.com/watch?v=tg0LhnjTH8Y)
+ 
+ - [Power BI Python Tutorial ](https://www.youtube.com/watch?v=8lcTRl1OwdQ)
 
 
