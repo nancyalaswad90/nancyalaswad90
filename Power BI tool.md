@@ -45,16 +45,12 @@
 | **Online Education Platforms**|
  | ------------ | 
 
-| **[Udacity SQL for Data Analysis](https://classroom.udacity.com/courses/ud198)** | [Sqlite Online](https://sqliteonline.com/) |**[Data Camp](https://campus.datacamp.com/courses/introduction-to-sql/selecting-columns?ex=10)** |  **[Edureka / SQL for Data Science](https://www.youtube.com/watch?v=HTj7IpsEY5g)**|  **[Great Learning Academy](https://www.mygreatlearning.com/academy/learn-for-free/courses/data-science-foundations)**| **[Kaggle/ Intro to SQL](https://www.kaggle.com/learn/intro-to-sql)**| 
+| **[Udacity ]()** | [---]() |**[Data Camp]()** |  **[Edureka / What is Power BI ](https://www.youtube.com/watch?v=tg0LhnjTH8Y)**|  **[Great Learning Academy]()**| **[Kaggle/ ]()**| 
 | ------------ | ------------ | ------------ |------------ | ------------ | ------------ |
 
 
 .
 
-> - This tool [http://www.sql-format.com/](https://sql-format.com/) might help format the SQL queries for readability.
 
-
-
-.
 
 
