@@ -58,7 +58,11 @@
 
 
 .
+> ## Check these resources to practice adding the appropriate aggregation functions to the SQL queries:
 
+1. [SQL Exercises, Practice, Solution - Aggregate Functions](https://www.w3resource.com/sql-exercises/sql-aggregate-functions.php)
+2. [SQL Queries with aggregates](https://sqlbolt.com/lesson/select_queries_with_aggregates)
+3. [SQL Aggregate Functions](https://mode.com/sql-tutorial/sql-aggregate-functions/)
 
 
 .
@@ -99,3 +103,8 @@ https://www.w3schools.com/sql/
 
 
 - SQL for Data Science :  [ Data Science Training Part( 1 )](https://www.youtube.com/watch?v=HTj7IpsEY5g) **&**  [Part ( 2 )](https://www.youtube.com/watch?v=HjbiIlokvwk) 
+
+
+
+
+
