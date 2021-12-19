@@ -60,10 +60,32 @@
 .
 > ## Check these resources to practice adding the appropriate aggregation functions to the SQL queries:
 
-1. [SQL Exercises, Practice, Solution - Aggregate Functions](https://www.w3resource.com/sql-exercises/sql-aggregate-functions.php)
-2. [SQL Queries with aggregates](https://sqlbolt.com/lesson/select_queries_with_aggregates)
-3. [SQL Aggregate Functions](https://mode.com/sql-tutorial/sql-aggregate-functions/)
 
+=====================================================================================================================
+
+
+-  [SQL Exercises, Practice, Solution - Aggregate Functions](https://www.w3resource.com/sql-exercises/sql-aggregate-functions.php)
+
+
+
+- [SQL Queries with aggregates](https://sqlbolt.com/lesson/select_queries_with_aggregates)
+
+
+-  [SQL Aggregate Functions](https://mode.com/sql-tutorial/sql-aggregate-functions/)
+
+
+- [Quicker, Faster SQL Queries – Using Aggregate Functions.](https://www.udemy.com/blog/sql-aggregate-functions/)
+ 
+
+
+- [10 tips for sorting, grouping, and summarizing SQL data.](https://www.techrepublic.com/article/10-tips-for-sorting-grouping-and-summarizing-sql-data/)
+ 
+
+
+
+ - [Efficient Processing of Window Functions in Analytical SQL Queries.](http://www.vldb.org/pvldb/vol8/p1058-leis.pdf)
+  
+  
 
 .
 
