@@ -46,7 +46,7 @@
  | ------------ | 
 
 | **[Udacity SQL for Data Analysis](https://classroom.udacity.com/courses/ud198)** | [Sqlite Online](https://sqliteonline.com/) |**[Data Camp](https://campus.datacamp.com/courses/introduction-to-sql/selecting-columns?ex=10)** |  **[Edureka / SQL for Data Science](https://www.youtube.com/watch?v=HTj7IpsEY5g)**|  **[Great Learning Academy](https://www.mygreatlearning.com/academy/learn-for-free/courses/data-science-foundations)**| **[Kaggle/ Intro to SQL](https://www.kaggle.com/learn/intro-to-sql)**| 
-| ------------ | ------------ | ------------ |------------ | ------------ | ------------ |
+| **[linkedin/ SQL for Data Analysis](https://www.linkedin.com/learning/sql-for-data-analysis)** | ------------ | ------------ |------------ | ------------ | ------------ |
 | ------------ | ------------ | ------------ |------------ | ------------ | ------------ |
 
 .
