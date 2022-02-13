@@ -63,7 +63,8 @@
 > ## Check these resources to practice adding the appropriate aggregation functions to the SQL queries:
 
 
-================================================================================================
+========================================================================================
+
 
 
 -  [SQL Exercises, Practice, Solution - Aggregate Functions](https://www.w3resource.com/sql-exercises/sql-aggregate-functions.php)
