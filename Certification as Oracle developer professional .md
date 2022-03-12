@@ -15,6 +15,16 @@
 ![Oracle Certified Professional](https://user-images.githubusercontent.com/36210723/158022045-9ef12440-1f13-4c12-b9f4-78a973995082.PNG)............. ![Oracle Certified Associate](https://user-images.githubusercontent.com/36210723/158022049-d6cf2e35-bd51-4d90-bf9a-6a3dedf8762f.PNG)
 
 
+...
+
+![3](https://user-images.githubusercontent.com/36210723/158022197-c869fbb2-8cf9-495e-99a1-a55b1757432f.PNG)
+![1](https://user-images.githubusercontent.com/36210723/158022199-99a7cda9-7f90-45aa-8752-6cb01c36d08f.PNG)
+![2](https://user-images.githubusercontent.com/36210723/158022200-aa802e38-3de4-41ca-a332-410c6ef9fe46.PNG)
+
+
+
+....
+
 - [Oracle Essentials Application R12](https://github.com/nancyalaswad90/Certifications/blob/main/Oracle%20Essentials%20Application%20R12.md)
 
 
