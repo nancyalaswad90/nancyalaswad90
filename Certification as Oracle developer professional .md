@@ -144,7 +144,7 @@ https://www.w3schools.com/sql/
 
 
 
-- [ython for the Lab | Storing Data with SQLite](https://www.pythonforthelab.com/blog/storing-data-with-sqlite/)
+- [Python for the Lab | Storing Data with SQLite](https://www.pythonforthelab.com/blog/storing-data-with-sqlite/)
 
 
 
