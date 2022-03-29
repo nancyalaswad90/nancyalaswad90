@@ -11,11 +11,11 @@ Now a days I am studying  [Information Technology and Computing](https://github.
 
 
 
-That's why I'm excited to contribute this summer with you and I have chosen the ** Open Science Community Saudi Arabia (OSCSA)** cause  `Localization`  ** project  ** will give me a good experience  and as defined by Stephanie Harris.
+That's why I'm excited to contribute this summer with you and I have chosen the **Open Science Community Saudi Arabia (OSCSA)** cause  `Localization`  **project** will give me a good experience  and as defined by Stephanie Harris.
 
 
 
-`Localization`** is a more comprehensive process than translation** that addresses cultural and non-textual components as well as linguistic issues when adapting the text for another country or locale.
+`Localization` **is a more comprehensive process than translation** that addresses cultural and non-textual components as well as linguistic issues when adapting the text for another country or locale.
 
 
 
