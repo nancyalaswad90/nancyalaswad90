@@ -11,7 +11,7 @@ Now a days I am studying  [Information Technology and Computing](https://github.
 
 
 
-That's why I'm excited to contribute this summer with you and I have chosen the **Open Science Community Saudi Arabia (OSCSA)** cause  `Localization`  **project** will give me a good experience  and as defined by Stephanie Harris.
+That's why I'm excited to contribute this summer with you and I have chosen the **Open Science Community Saudi Arabia (OSCSA)** cause  `Localization`  **project** will give me a good experience  and [as defined by Stephanie Harris.](https://www.vengaglobal.com/blog/translation-localization-difference/)
 
 
 
