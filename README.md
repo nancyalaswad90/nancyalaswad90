@@ -12,7 +12,7 @@
 
 
 .
->   ### [How to use this GitHub repository to gain internship & Valuable certifications](https://www.youtube.com/watch?v=0_dGOhZnLMg) 😄
+ ### [Now 😄 ,How to use this GitHub repository to gain internship & Valuable certifications](https://www.youtube.com/watch?v=0_dGOhZnLMg) 
 
 
 
@@ -37,7 +37,8 @@
 .
 
 | **😄Academic Certification**|
- | ------------ | 
+ | ------------ |
+ 
 | **[Master & First Bachelor in Accounting Path](https://github.com/nancyalaswad90/nancyalaswad90/blob/master/%D8%A7%D9%84%D8%AC%D8%A7%D9%85%D8%B9%D8%A7%D8%AA.pdf)** | **[ Second Bachelor in  Information Technology and Computing Path/ `Undergraduate`](https://github.com/nancyalaswad90/nancyalaswad90/blob/master/second%20.md)** | **[The Third Path in Medical Laboratory](https://github.com/nancyalaswad90/Medical-Laboratory/blob/main/README.md)** |**[SQL as OCP developer ](https://github.com/nancyalaswad90/nancyalaswad90/blob/master/Certification%20as%20Oracle%20developer%20professional%20.md)** |*[ Each Year Study Schedule](https://github.com/nancyalaswad90/Each-Year-Study-Schedule/blob/main/README.md)*
 |------------ |------------ | ------------ | ------------ |------------ |
 
