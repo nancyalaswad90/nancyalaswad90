@@ -7,7 +7,7 @@
 
 > Now a days she is studying  [Information Technology and Computing](https://github.com/nancyalaswad90/nancyalaswad90/blob/master/second%20.md)  at Arab Open University as **[second](https://github.com/nancyalaswad90/Each-Year-Study-Schedule/blob/main/README.md) Bachelor study path** and  [Medical Laboratory](https://github.com/nancyalaswad90/Medical-Laboratory/blob/main/README.md)   diploma college as **[third](https://github.com/nancyalaswad90/Each-Year-Study-Schedule/blob/main/README.md) study path.**
 
->Her aim is to gain knowledge and experience to **merge computer science with life vital aspects** then share the advantages with others.Also , she work with `Udacity` as [Mentor  , Reviewer and Data Analyst Session Lead](https://github.com/nancyalaswad90/My-Career-Progress-as-Mentor-in-Udacity) to support the learners in their studying journey. 
+>Her aim is to [gain knowledge and experience](https://drive.google.com/file/d/1T6pg_WyQUBjfYHtJBEhBCTQRj66oOAEo/view?usp=sharing) to **merge computer science with life vital aspects** then share the advantages with others.Also , she work with `Udacity` as [Mentor  , Reviewer and Data Analyst Session Lead](https://github.com/nancyalaswad90/My-Career-Progress-as-Mentor-in-Udacity) to support the learners in their studying journey. 
 
 
 
