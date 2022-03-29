@@ -9,11 +9,14 @@
 
 >Her aim is to gain knowledge and experience to **merge computer science with life vital aspects** then share the advantages with others🤠 😄 Also , she work with `Udacity` as [Mentor  , Reviewer and Data Analyst Session Lead](https://github.com/nancyalaswad90/My-Career-Progress-as-Mentor-in-Udacity) to support the learners in their studying journey. 😊
 
->   ## [How to use my GitHub repository to gain internship & Valuable certifications](https://www.youtube.com/watch?v=0_dGOhZnLMg) 😄
+
+
+.
+>   ### [How to use this GitHub repository to gain internship & Valuable certifications](https://www.youtube.com/watch?v=0_dGOhZnLMg) 😄
 
 
 
-> ## [Organization Repository about  `Self Education for Data Analyst`](https://github.com/Self-Education-for-Business-analyst)
+.
 
 
 
@@ -35,15 +38,6 @@
 
 | **😄Academic Certification**|
  | ------------ | 
- >  **Nancy is  , [Master Accountant](https://github.com/nancyalaswad90/nancyalaswad90/blob/master/%D8%A7%D9%84%D8%AC%D8%A7%D9%85%D8%B9%D8%A7%D8%AA.pdf) with more than 11 years experience working in Bank on operational & extracting data, And now she is working in AI, ML, DL, DS fields** 
-
-> Now a days she is studying  [Information Technology and Computing](https://github.com/nancyalaswad90/nancyalaswad90/blob/master/second%20.md)  at Arab Open University as **[second](https://github.com/nancyalaswad90/Each-Year-Study-Schedule/blob/main/README.md) Bachelor study path** and  [Medical Laboratory](https://github.com/nancyalaswad90/Medical-Laboratory/blob/main/README.md)   diploma college as **[third](https://github.com/nancyalaswad90/Each-Year-Study-Schedule/blob/main/README.md) study path.**
-
->Her aim is to gain knowledge and experience to **merge computer science with life vital aspects** then share the advantages with others🤠 😄 Also , she work with `Udacity` as [Mentor  , Reviewer and Data Analyst Session Lead](https://github.com/nancyalaswad90/My-Career-Progress-as-Mentor-in-Udacity) to support the learners in their studying journey. 😊
-
- 
- .
- 
 | **[Master & First Bachelor in Accounting Path](https://github.com/nancyalaswad90/nancyalaswad90/blob/master/%D8%A7%D9%84%D8%AC%D8%A7%D9%85%D8%B9%D8%A7%D8%AA.pdf)** | **[ Second Bachelor in  Information Technology and Computing Path/ `Undergraduate`](https://github.com/nancyalaswad90/nancyalaswad90/blob/master/second%20.md)** | **[The Third Path in Medical Laboratory](https://github.com/nancyalaswad90/Medical-Laboratory/blob/main/README.md)** |**[SQL as OCP developer ](https://github.com/nancyalaswad90/nancyalaswad90/blob/master/Certification%20as%20Oracle%20developer%20professional%20.md)** |*[ Each Year Study Schedule](https://github.com/nancyalaswad90/Each-Year-Study-Schedule/blob/main/README.md)*
 |------------ |------------ | ------------ | ------------ |------------ |
 
@@ -131,3 +125,4 @@
 
 
 .
+> ### [Organization Repository about  `Self Education for Data Analyst`](https://github.com/Self-Education-for-Business-analyst)
