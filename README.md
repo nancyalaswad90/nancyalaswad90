@@ -126,5 +126,5 @@
 
 
 .
-> ### [Organization Repository about  `Self Education for Data Analyst`](https://github.com/Self-Education-for-Business-analyst)
+> ### [Read in Organization Repository about  `Self Education for Data Analyst`](https://github.com/Self-Education-for-Business-analyst)
 .
