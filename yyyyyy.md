@@ -15,7 +15,7 @@ That's why I'm excited to contribute this summer with you and I have chosen the 
 
 
 
-`Localization` **is a more comprehensive process than translation** that addresses cultural and non-textual components as well as linguistic issues when adapting the text for another country or locale.
+ [Localization](https://www.vengaglobal.com/blog/translation-localization-difference/)  **is a more comprehensive process than translation** that addresses cultural and non-textual components as well as linguistic issues when adapting the text for another country or locale.
 
 
 
