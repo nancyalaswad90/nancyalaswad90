@@ -48,6 +48,8 @@
  | [refseek ](https://www.refseek.com)  | 
 .
 
+| **[😄 Daily-work](https://github.com/nancyalaswad90/Daily-work/blob/main/README.md)**|
+
 
 
 | **[ Online Education for each School](https://github.com/nancyalaswad90/ONLINE-EDUCATION-for-each-School/blob/main/README.md)**|
