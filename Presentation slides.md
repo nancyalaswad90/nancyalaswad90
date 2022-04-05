@@ -10,3 +10,6 @@
 
 
 - [NYSE Project Walkthrough](https://docs.google.com/document/d/1OQvk2FgFpjpSpEK1nGhJ6v5SPmjTdvFwu9opylB3gkw/edit?fbclid=IwAR3IYGyVAZFrPkaw2KFAGJQXBaRo1TCZbbD95eXF5j05bMFlWds6rKoBn7s)
+
+
+- [Analyze NYSE Data Project Walk Through](https://docs.google.com/presentation/d/14DsitBMKRVLDFMkPc3mr2hJ9ukH5mGv-9kVD9nzqYBg/edit#slide=id.p)
