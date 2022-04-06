@@ -1,12 +1,12 @@
 .
 
-> # [Presentation slides](https://docs.google.com/presentation/d/1z6K9JoqV3OFGJLkJ0zkCHKQ0MZ27N95vz46Ao325ilk/edit#slide=id.g107019e4486_0_729)
+> # [Project Presentation slides](https://docs.google.com/presentation/d/1z6K9JoqV3OFGJLkJ0zkCHKQ0MZ27N95vz46Ao325ilk/edit#slide=id.g107019e4486_0_729)
 
 
 ===============================================================
 
 
-- [Anaconda Navigator](https://docs.google.com/presentation/d/1aRYRi804-aBtDxT5bktUHvv0OUSU-GPdLUVR-uF7aRU/edit#slide=id.g119e2fd1746_0_4)
+
 
 
 - [Welcome  - insight from data ](https://docs.google.com/presentation/d/1Nd2aLTuccP6eS6mTvnHFrRbmTSgElTymFx8-hzLqiy0/edit#slide=id.gbcf111090f_0_0)
@@ -24,3 +24,17 @@ To make work  : https://github.com/nancyalaswad90/Tutuor-work/blob/main/Second%2
 
 
 
+.
+
+===============================================================
+
+.
+
+
+> ## form and pratice work
+
+
+===================
+
+
+- [Anaconda Navigator](https://docs.google.com/presentation/d/1aRYRi804-aBtDxT5bktUHvv0OUSU-GPdLUVR-uF7aRU/edit#slide=id.g119e2fd1746_0_4)
