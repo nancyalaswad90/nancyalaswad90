@@ -13,3 +13,8 @@
 
 
 - [Analyze NYSE Data Project Walk Through](https://docs.google.com/presentation/d/14DsitBMKRVLDFMkPc3mr2hJ9ukH5mGv-9kVD9nzqYBg/edit#slide=id.p)
+
+
+.
+
+To make work  : https://github.com/nancyalaswad90/Tutuor-work/blob/main/Second%20Poject%20NSYE.md
