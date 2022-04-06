@@ -9,7 +9,7 @@
 - [Anaconda Navigator](https://docs.google.com/presentation/d/1aRYRi804-aBtDxT5bktUHvv0OUSU-GPdLUVR-uF7aRU/edit#slide=id.g119e2fd1746_0_4)
 
 
-- [NYSE Project Walkthrough](https://docs.google.com/document/d/1OQvk2FgFpjpSpEK1nGhJ6v5SPmjTdvFwu9opylB3gkw/edit?fbclid=IwAR3IYGyVAZFrPkaw2KFAGJQXBaRo1TCZbbD95eXF5j05bMFlWds6rKoBn7s)
+- [NYSE Project Walkthrough](https://docs.google.com/document/d/1hQwqwrAlPS-3U8j_QuBfoREZYMFEB5z1vLBta5w_4K0/edit)
 
 
 - [Analyze NYSE Data Project Walk Through](https://docs.google.com/presentation/d/14DsitBMKRVLDFMkPc3mr2hJ9ukH5mGv-9kVD9nzqYBg/edit#slide=id.p)
