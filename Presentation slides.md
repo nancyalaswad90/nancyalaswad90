@@ -9,6 +9,8 @@
 - [Anaconda Navigator](https://docs.google.com/presentation/d/1aRYRi804-aBtDxT5bktUHvv0OUSU-GPdLUVR-uF7aRU/edit#slide=id.g119e2fd1746_0_4)
 
 
+- [Welcome  - insight from data ](https://docs.google.com/presentation/d/1Nd2aLTuccP6eS6mTvnHFrRbmTSgElTymFx8-hzLqiy0/edit#slide=id.gbcf111090f_0_0)
+
 - [NYSE Project Walkthrough](https://docs.google.com/document/d/1hQwqwrAlPS-3U8j_QuBfoREZYMFEB5z1vLBta5w_4K0/edit)
 
 
@@ -18,3 +20,7 @@
 .
 
 To make work  : https://github.com/nancyalaswad90/Tutuor-work/blob/main/Second%20Poject%20NSYE.md
+
+
+
+
