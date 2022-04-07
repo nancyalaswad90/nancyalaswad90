@@ -16,7 +16,7 @@
 
 - [Analyze NYSE Data Project Walk Through for `student` ](https://docs.google.com/presentation/d/14DsitBMKRVLDFMkPc3mr2hJ9ukH5mGv-9kVD9nzqYBg/edit#slide=id.p)
 
-- [Analyze NYSE Data Project Walk Through for `employee` ](https://docs.google.com/presentation/d/14DsitBMKRVLDFMkPc3mr2hJ9ukH5mGv-9kVD9nzqYBg/edit#slide=id.p)
+- [Analyze NYSE Data Project Walk Through for `employee` ](https://docs.google.com/presentation/d/1HkSjTZ-1b1TdISqN-JDPJtiEPnm0rXdk0Y_-2x5fnCY/edit#slide=id.g1238e5ecfef_0_161)
 
 .
 
