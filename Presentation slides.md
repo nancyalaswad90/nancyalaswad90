@@ -24,7 +24,7 @@
 
 - [Analyze NYSE Data Project Walk Through for `student` ](https://docs.google.com/presentation/d/14DsitBMKRVLDFMkPc3mr2hJ9ukH5mGv-9kVD9nzqYBg/edit#slide=id.p)
 
-- [Analyze NYSE Data Project Walk Through for `employee` ](https://docs.google.com/presentation/d/1HkSjTZ-1b1TdISqN-JDPJtiEPnm0rXdk0Y_-2x5fnCY/edit#slide=id.g1238e5ecfef_0_161)
+- [Analyze NYSE Data Project Walk Through for `employee` ](https://docs.google.com/presentation/d/1HkSjTZ-1b1TdISqN-JDPJtiEPnm0rXdk0Y_-2x5fnCY/edit#slide=id.g1238e5ecfef_0_161) The insight for this  [Data Walkthrough  at 7:00- 9:00 AM  in Friday 8/4 ](https://homeaffairs.webex.com/wbxmjs/joinservice/sites/homeaffairs/meeting/download/50d1d9e42a4549efa30f199e7b2b8120?siteurl=homeaffairs&MTID=mbd88367e0d83ddd2088061c364428d30)
 
 
 
