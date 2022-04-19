@@ -27,12 +27,6 @@
 - [Analyze NYSE Data Project Walk Through for `employee` ](https://docs.google.com/presentation/d/1HkSjTZ-1b1TdISqN-JDPJtiEPnm0rXdk0Y_-2x5fnCY/edit#slide=id.g1238e5ecfef_0_161) The insight for this  [Data Walkthrough  at 7:00- 9:00 AM  in Friday 8/4 ](https://homeaffairs.webex.com/wbxmjs/joinservice/sites/homeaffairs/meeting/download/50d1d9e42a4549efa30f199e7b2b8120?siteurl=homeaffairs&MTID=mbd88367e0d83ddd2088061c364428d30)
 
 
-
-- [NYSE Project Walkthrough](https://docs.google.com/document/d/1hQwqwrAlPS-3U8j_QuBfoREZYMFEB5z1vLBta5w_4K0/edit)
-
-
--  [Udacity platform ](https://classroom.udacity.com/nanodegrees/nd098-mena-fow2/parts/960ec8ee-c350-449d-93f5-39db204cb226)
-
 -
 
 
@@ -40,7 +34,7 @@
 | **😄 Next Month**|
  | ------------ | 
 
-| [Project in Udacity platform ](https://classroom.udacity.com/nanodegrees/nd098-mena-fow2/parts/960ec8ee-c350-449d-93f5-39db204cb226)|[Tutuor-work future shaper ](https://github.com/nancyalaswad90/Tutuor-work)| ------------ |------------ | ------------ | ------------ |------------ | ------------ | ------------ |------------ |------------ |
+| [Project in Udacity platform ](https://classroom.udacity.com/nanodegrees/nd098-mena-fow2/parts/960ec8ee-c350-449d-93f5-39db204cb226)|[Tutuor-work future shaper ](https://github.com/nancyalaswad90/Tutuor-work)| [Nancy & Marwa NYSE Project Walkthrough](https://docs.google.com/document/d/1hQwqwrAlPS-3U8j_QuBfoREZYMFEB5z1vLBta5w_4K0/edit)  |Format in the lesson  [Solution for Quiz: Bottom-Up Financial Forecasting](https://classroom.udacity.com/nanodegrees/nd098-mena-fow2/parts/960ec8ee-c350-449d-93f5-| ------------ | ------------ |------------ | ------------ | ------------ |------------ |------------ |
 | ------------ | ------------ | ------------ |------------ | ------------ | ------------ |------------ | ------------ | ------------ |------------ |------------ |
 | ------------ | ------------ | ------------ |------------ | ------------ | ------------ |------------ | ------------ | ------------ |------------ |------------ |
 
