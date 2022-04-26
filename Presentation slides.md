@@ -69,7 +69,7 @@ To make work  : https://github.com/nancyalaswad90/Tutuor-work/blob/main/Second%2
 - [Slide](https://docs.google.com/presentation/d/13GNBUjACs7-UMIgfSMf-95JRmddsFYGuQwKwJPSZY-s/edit#slide=id.p) 
 
 
-- [details ](https://github.com/nancyalaswad90/Daily-work/edit/main/Telenor%20works%20and%20slides.md)
+- [details ](https://github.com/nancyalaswad90/Daily-work)
 .
 
 ===============================================================
