@@ -66,7 +66,7 @@ To make work  : https://github.com/nancyalaswad90/Tutuor-work/blob/main/Second%2
 
 > ===========
 
-- [Slide](https://docs.google.com/presentation/d/13GNBUjACs7-UMIgfSMf-95JRmddsFYGuQwKwJPSZY-s/edit#slide=id.p) 
+-  [Final  Slide](https://docs.google.com/presentation/d/1MGIWSkWo16W6c4ouqjMpgTQ0GR7CiIkY_HsOChXyT2g/edit#slide=id.g125206ae537_0_11)   and  [test Slide](https://docs.google.com/presentation/d/13GNBUjACs7-UMIgfSMf-95JRmddsFYGuQwKwJPSZY-s/edit#slide=id.p) 
 
 
 - [details ](https://github.com/nancyalaswad90/Daily-work/blob/main/Telenor%20works%20and%20slides.md)
