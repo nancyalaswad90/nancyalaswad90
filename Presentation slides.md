@@ -55,6 +55,28 @@ To make work  : https://github.com/nancyalaswad90/Tutuor-work/blob/main/Second%2
 .
 
 
+
+
+
+
+
+.
+
+> ##  Exploring Weather Trends
+
+> ===========
+
+- [Slide](https://docs.google.com/presentation/d/13GNBUjACs7-UMIgfSMf-95JRmddsFYGuQwKwJPSZY-s/edit#slide=id.p) 
+
+
+.
+
+===============================================================
+
+.
+
+
+
 > ## form and pratice work
 
 
