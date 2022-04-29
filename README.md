@@ -43,33 +43,6 @@
 
 
 .
-
-
-| **[😄 Daily-work](https://github.com/nancyalaswad90/Daily-work/blob/main/README.md)**|
- | ------------ | 
-
-
-| **[ Online Education for each School](https://github.com/nancyalaswad90/ONLINE-EDUCATION-for-each-School/blob/main/README.md)**|
- | ------------ | 
-
-| **[School of Business](https://github.com/nancyalaswad90/The-School-of-Business/blob/main/README.md)** | **[School of Data Science](https://github.com/nancyalaswad90/School-of-Data-Science/blob/main/README.md)** | **[School of  Artificial Intelligence](https://github.com/nancyalaswad90/School-of-Artificial-Intelligence/blob/main/README.md)** | **[School of Programming & Development](https://github.com/nancyalaswad90/School-of-Programming-Development)**| **[School of Cloud Computing](https://github.com/nancyalaswad90/School-of-Cloud-Computing/blob/main/README.md)**|**[School of Medical Laboratory](https://github.com/nancyalaswad90/School-of-Medical-Laboratory/blob/main/README.md)**| 
-| ------------ | ------------ | ------------ |------------ | ------------ | ------------ |
-
-
-.
-
-
-
-
-[الخرائط الذهنية لتفسير سور القران الكريم](https://drive.google.com/file/d/1yW04DXqCTlkVfUi4gePWgikmeszDYGcG/view)
-
-
-
-
-
-.
-
-
 | **[😄 Daily-work](https://github.com/nancyalaswad90/Daily-work/blob/main/README.md)**|
  | ------------ | 
 
@@ -79,6 +52,12 @@
 
 | **[School of Business](https://github.com/nancyalaswad90/The-School-of-Business/blob/main/README.md)** | **[School of Data Science](https://github.com/nancyalaswad90/School-of-Data-Science/blob/main/README.md)** | **[School of  Artificial Intelligence](https://github.com/nancyalaswad90/School-of-Artificial-Intelligence/blob/main/README.md)** | **[School of Programming & Development](https://github.com/nancyalaswad90/School-of-Programming-Development)**| **[School of Cloud Computing](https://github.com/nancyalaswad90/School-of-Cloud-Computing/blob/main/README.md)**|**[School of Medical Laboratory](https://github.com/nancyalaswad90/School-of-Medical-Laboratory/blob/main/README.md)**|[الخرائط الذهنية لتفسير سور القران الكريم](https://drive.google.com/file/d/1yW04DXqCTlkVfUi4gePWgikmeszDYGcG/view) |
 | ------------ | ------------ | ------------ |------------ | ------------ | ------------ |------------ |
+
+
+.
+
+
+
 
 
 | **😄 Languages and tools**|
