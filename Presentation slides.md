@@ -78,6 +78,26 @@ To make work  : https://github.com/nancyalaswad90/Tutuor-work/blob/main/Second%2
 
 
 
+
+> ##  Investigate a Dataset
+
+
+> ===========
+
+-  [Final  Slide]()   and  [test Slide]() 
+
+
+- [details ]()
+
+
+
+.
+
+===============================================================
+
+.
+
+
 > ## form and pratice work
 
 
