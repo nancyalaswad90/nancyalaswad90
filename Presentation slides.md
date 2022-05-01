@@ -30,23 +30,6 @@
 -
 
 
-
-| **😄 Next Month**|
- | ------------ | 
-
-| [Project in Udacity platform ](https://classroom.udacity.com/nanodegrees/nd098-mena-fow2/parts/960ec8ee-c350-449d-93f5-39db204cb226)|[Tutuor-work future shaper ](https://github.com/nancyalaswad90/Tutuor-work)| [Nancy & Marwa NYSE Project Walkthrough](https://docs.google.com/document/d/1hQwqwrAlPS-3U8j_QuBfoREZYMFEB5z1vLBta5w_4K0/edit)  |Format in the lesson  [Solution for Quiz: Bottom-Up Financial Forecasting](https://classroom.udacity.com/nanodegrees/nd098-mena-fow2/parts/960ec8ee-c350-449d-93f5-| ------------ | ------------ |------------ | ------------ | ------------ |------------ |------------ |
-| ------------ | ------------ | ------------ |------------ | ------------ | ------------ |------------ | ------------ | ------------ |------------ |------------ |
-| ------------ | ------------ | ------------ |------------ | ------------ | ------------ |------------ | ------------ | ------------ |------------ |------------ |
-
-
-
-.
-
-
--
-
-
-
 | **😄 Next Month**|
  | ------------ | 
 
@@ -70,12 +53,6 @@ To make work  : https://github.com/nancyalaswad90/Tutuor-work/blob/main/Second%2
 .
 
 
-
-
-
-
-
-.
 
 > ##  Exploring Weather Trends
 
