@@ -87,7 +87,7 @@ To make work  : https://github.com/nancyalaswad90/Tutuor-work/blob/main/Second%2
 -  [Final  Slide]()   and  [test Slide]() 
 
 
-- [details ]()
+- [details ](https://github.com/nancyalaswad90/Daily-work/blob/main/Investigate%20a%20Dataset.md)
 
 
 
