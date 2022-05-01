@@ -93,6 +93,7 @@
 |**[Kaggle](https://www.kaggle.com/nancyalaswad90)**| **[hackerrank](https://www.hackerrank.com/nancyalaswad90)** | **[freelancer](https://www.freelancer.com/u/nancyalaswad90)** | **[Corporate Finance Institute® (CFI) Profile](https://github.com/nancyalaswad90/Corporate-Finance-Institute-CFI-Profile/blob/main/README.md/)** |**[IMA ](https://github.com/nancyalaswad90/IMA-Accounting-Certifications)** | **[LeetCode](https://leetcode.com/Nancy_Al_Aswad90/)** | [Stack overflow](https://stackoverflow.com/users/12555055/nancy-al-aswad) |
 | [data Camp](https://learn.datacamp.com/career-tracks) | [Google Developers](https://developers.google.com/profile/u/116039305746026612185) | [Stack overflow](https://stackoverflow.com/users/12555055/nancy-al-aswad) | [SoloLearn ]() |**[Cisco Networking Academy](https://www.cisco.com/c/m/en_sg/partners/cisco-networking-academy/index.html#~networking-essentials)**|
 | ------------ | ------------ | ------------ |------------ | ------------ | ------------ |
+| ------------ | ------------ | ------------ |------------ | ------------ | ------------ |
 
 
 
