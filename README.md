@@ -112,7 +112,6 @@
 ### **[Nominate me as GitHub Star 🌟](https://stars.github.com/nominate/)**
 
 
-
 .
 > ### [Read in Organization Repository about  `Self Education for Data Analyst`](https://github.com/Self-Education-for-Business-analyst)
 .
