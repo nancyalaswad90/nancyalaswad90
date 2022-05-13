@@ -8,7 +8,6 @@
 >Her aim is to [gain knowledge and experience](https://drive.google.com/file/d/1T6pg_WyQUBjfYHtJBEhBCTQRj66oOAEo/view?usp=sharing) to **merge computer science with life vital aspects** then share the advantages with others.Also , she work with `Udacity` as [Mentor  , Reviewer and Data Analyst Session Lead](https://github.com/nancyalaswad90/My-Career-Progress-as-Mentor-in-Udacity) to support the learners in their studying journey. 
 
 
-
 .
  ### [ Now 😄 , Press this link to learn how to use this GitHub repositories to gain internship & Valuable certifications](https://www.youtube.com/watch?v=0_dGOhZnLMg) 
 
