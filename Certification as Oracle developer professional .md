@@ -61,11 +61,11 @@
 | **[linkedin/ SQL for Data Analysis](https://www.linkedin.com/learning/sql-for-data-analysis)** | [SQL Tutorialللشرح ](https://www.geeksforgeeks.org/sql-tutorial/)| ------------ |------------ | ------------ | ------------ |
 | ------------ | ------------ | ------------ |------------ | ------------ | ------------ |
 
+
 .
 
 
-
-![1651723601602](https://user-images.githubusercontent.com/36210723/168467341-1d5ac218-4ff0-4ba4-989b-01bea216cab7.jpg)
+![git](https://user-images.githubusercontent.com/36210723/168467385-257b457e-fcf3-4173-b0e4-2f5760e584db.jpg)
 
 
 .
