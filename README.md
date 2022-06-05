@@ -1,6 +1,6 @@
 .
 
-### Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h5> 
+### Hi there 😄
 
 
 >  **Nancy is  , [Master Accountant](https://github.com/nancyalaswad90/nancyalaswad90/blob/master/%D8%A7%D9%84%D8%AC%D8%A7%D9%85%D8%B9%D8%A7%D8%AA.pdf) with more than 11 years experience working in Bank on operational & extracting data, And now she is working in AI, ML, DL, DS fields** 
