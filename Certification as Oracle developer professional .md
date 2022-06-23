@@ -156,3 +156,13 @@ https://www.w3schools.com/sql/
 - [Arabic Sql](https://media-exp1.licdn.com/dms/document/C561FAQGLFEKPmRnJBA/feedshare-document-pdf-analyzed/0/1650981455004?e=2147483647&v=beta&t=d5DChi0SLnCIK4dkITDpLJeZqrpgbtDGFzo5WAEayXE)  the [post idea](https://www.linkedin.com/posts/eslamabdelglil_sql-%D8%A8%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A-activity-6924718125024243713-HiIO/?utm_source=linkedin_share&utm_medium=android_app)
 
 .
+
+
+.
+
+
+![1655568925753](https://user-images.githubusercontent.com/36210723/175386007-7765b971-606b-4314-bb8f-2e6204d5342c.jpg)
+
+
+.
+
