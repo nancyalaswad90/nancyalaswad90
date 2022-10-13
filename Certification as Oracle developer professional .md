@@ -52,26 +52,12 @@
 
 
 
-
-| **Online Education Platforms**|
- | ------------ | 
-
-| **[Udacity SQL for Data Analysis](https://classroom.udacity.com/courses/ud198)** |**[Data Camp](https://campus.datacamp.com/courses/introduction-to-sql/selecting-columns?ex=10)** |  **[Edureka / SQL for Data Science](https://www.youtube.com/watch?v=HTj7IpsEY5g)**|  **[Great Learning Academy](https://www.mygreatlearning.com/academy/learn-for-free/courses/data-science-foundations)**| **[Kaggle/ Intro to SQL](https://www.kaggle.com/learn/intro-to-sql)**|
-| ------------ | ------------ | ------------ |------------ | ------------ |
-| **[linkedin/ SQL for Data Analysis](https://www.linkedin.com/learning/sql-for-data-analysis)** | [SQL Tutorialللشرح ](https://www.geeksforgeeks.org/sql-tutorial/)| [Sqlite Online](https://sqliteonline.com/) |------------ | ------------ | 
-| ------------ | ------------ | ------------ |------------ | ------------ |
-
-
-.
-
-
-
 | **Online Education Platforms**|
  | ------------ | 
 
 | **[Udacity //  SQL for Data Analysis](https://classroom.udacity.com/courses/ud198)** |**[Edureka // SQL for Data Science](https://www.youtube.com/watch?v=HTj7IpsEY5g)**|  **[linkedin  //  SQL for Data Analysis](https://www.linkedin.com/learning/sql-for-data-analysis)**  | **[Kaggle // Intro to SQL](https://www.kaggle.com/learn/intro-to-sql)**| [Sqlite Online](https://sqliteonline.com/) |
 | ------------ |  ------------ |------------ | ------------ | ------------ |
-|  **[Great Learning Academy](https://www.mygreatlearning.com/academy/learn-for-free/courses/data-science-foundations)**    | -------| [SQL Tutorialللشرح ](https://www.geeksforgeeks.org/sql-tutorial/)  | ------------ |  [ Youtube // SQL For Beginners]()  | 
+|  **[Great Learning Academy](https://www.mygreatlearning.com/academy/learn-for-free/courses/data-science-foundations)**    | -------| [SQL Tutorialللشرح ](https://www.geeksforgeeks.org/sql-tutorial/)  | ------------ |  [ Youtube // SQL For Beginners](https://www.youtube.com/playlist?list=PLEiEAq2VkUUKL3yPbn8yWnatjUg0P0I-Z)  | 
 | ------------ | ------------ |------------ | ------------ | ------------ |
 
 
