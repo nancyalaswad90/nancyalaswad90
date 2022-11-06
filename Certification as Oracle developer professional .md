@@ -163,6 +163,7 @@ https://www.w3schools.com/sql/
 
 ![1655568925753](https://user-images.githubusercontent.com/36210723/175386007-7765b971-606b-4314-bb8f-2e6204d5342c.jpg)
 
+https://youtu.be/Q7i6zxHVj2Q
 
 .
 
