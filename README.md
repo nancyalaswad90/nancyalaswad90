@@ -1,6 +1,7 @@
 .
 ### Hi there 😄
 
+
 >  **[Nancy](https://github.com/nancyalaswad90/Each-Year-Study-Schedule/blob/main/README.md) is, [Ph.D. candidate in Accounting](https://github.com/nancyalaswad90/nancyalaswad90/blob/master/%D8%A7%D9%84%D8%AC%D8%A7%D9%85%D8%B9%D8%A7%D8%AA.pdf) with nearly 12 years experience working in Bank on operational & extracting data, And now she is working in AI, ML, DL, DS fields** 
 
 
