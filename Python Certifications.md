@@ -112,7 +112,8 @@ If you are new to Python or would like to learn more about it, here are a few re
 
 
 - **Python For Beginners - A brief overview of Python**  : https://www.python.org/about/gettingstarted/
--
+
+- **programiz -python-programming** : [Built-in Functions](https://www.programiz.com/python-programming/methods/built-in/sorted)
 
 - Beginner's Guide to Python - A more comprehensive overview and suggested directions
 
