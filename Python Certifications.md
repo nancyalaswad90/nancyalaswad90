@@ -84,10 +84,12 @@
 
 ###  Mahara-Tech: [PYTHON PROGRAMMING BASICS](https://maharatech.gov.eg/course/view.php?id=43)
 
+
 ### [Mastering Python](https://elzero.org/study/mastering-python-study-plan/) | أكاديمية الزيرو
 
 
 
+.
 
 
 > ## Some Cheat Sheet 
@@ -98,9 +100,8 @@
 
 
 
-### (Optional) Python: Additional Resources and Recommended Readings
+.
 
-For this course, we recommend a basic knowledge of programming. If you want some extra practice with this area, continue reading.
 
 > ## Additional Resources
 
