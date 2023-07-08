@@ -4,6 +4,7 @@
 .
 >  **[Nancy](https://github.com/nancyalaswad90/Each-Year-Study-Schedule/blob/main/README.md) is, [Ph.D. candidate in Accounting](https://github.com/nancyalaswad90/nancyalaswad90/blob/master/%D8%A7%D9%84%D8%AC%D8%A7%D9%85%D8%B9%D8%A7%D8%AA.pdf) with nearly 12 years experience working in Bank on operational & extracting data, And now she is working in AI, ML, DL, DS fields** 
 
+
 . 
 
 > Nowadays she is studying [Ph.D.  `Accounting`](http://grades.wise.edu.jo:8889/index.php) in  the **[World Islamic Sciences and Education University](https://learn.wise.edu.jo/mlms/my/)** to continue **the finance path** and study [`Information Technology and Computing`](https://github.com/nancyalaswad90/nancyalaswad90/blob/master/second%20.md)  at **Arab Open University** as **[the second](https://github.com/nancyalaswad90/Each-Year-Study-Schedule/blob/main/README.md) Bachelor study path** and  [`Medical Laboratory`](https://github.com/nancyalaswad90/Medical-Laboratory/blob/main/README.md)   diploma **college** as **[the third](https://github.com/nancyalaswad90/Each-Year-Study-Schedule/blob/main/README.md) study path.**
