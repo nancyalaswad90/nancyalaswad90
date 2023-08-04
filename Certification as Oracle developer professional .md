@@ -167,3 +167,6 @@ https://youtu.be/Q7i6zxHVj2Q
 
 .
 
+SQL free courses 
+
+https://www.linkedin.com/posts/sai-bysani18_sql-tutorial-activity-7092836539432361984-6crq?utm_source=share&utm_medium=member_android
