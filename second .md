@@ -15,10 +15,6 @@
 ## My Final two exams : 
 .
 
-<img width="585" alt="355" src="https://github.com/nancyalaswad90/nancyalaswad90/assets/36210723/17a9c848-0b28-4616-917d-225c76b6c442">
-
-.
-
 ![IMG-20230803-WA0000](https://github.com/nancyalaswad90/Daily-work/assets/36210723/d3e44b04-d149-4a32-94c5-adbe7f3f4276)
 
 .
