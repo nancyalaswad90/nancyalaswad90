@@ -122,6 +122,5 @@
 .
 > ### [Read in Organization Repository about  `Self Education for Data Analyst`](https://github.com/Self-Education-for-Business-analyst)
 >
-> 
+
 .
-<img width="483" alt="sudi" src="https://github.com/nancyalaswad90/nancyalaswad90/assets/36210723/4b0aca1a-51f7-4b04-839d-28f901c1f0d5">
