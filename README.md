@@ -1,7 +1,10 @@
-<img width="483" alt="sudi" src="https://github.com/nancyalaswad90/nancyalaswad90/assets/36210723/63073bc2-5623-4972-b6dc-237ee77a1ab8">
-<img width="483" alt="sudi" src="https://github.com/nancyalaswad90/nancyalaswad90/assets/36210723/2869887b-9fcb-4293-a8fc-e3aaf0d7d0f1">
+
 . 
 
+![sudi](https://github.com/nancyalaswad90/nancyalaswad90/assets/36210723/14d911cb-bb97-412b-884d-aa35e27b819f)
+
+
+.
 ### Hi there 😄
 
 .
