@@ -1,3 +1,4 @@
+<img width="483" alt="sudi" src="https://github.com/nancyalaswad90/nancyalaswad90/assets/36210723/63073bc2-5623-4972-b6dc-237ee77a1ab8">
 <img width="483" alt="sudi" src="https://github.com/nancyalaswad90/nancyalaswad90/assets/36210723/2869887b-9fcb-4293-a8fc-e3aaf0d7d0f1">
 . 
 
@@ -121,4 +122,7 @@
 
 .
 > ### [Read in Organization Repository about  `Self Education for Data Analyst`](https://github.com/Self-Education-for-Business-analyst)
+>
+> 
 .
+<img width="483" alt="sudi" src="https://github.com/nancyalaswad90/nancyalaswad90/assets/36210723/4b0aca1a-51f7-4b04-839d-28f901c1f0d5">
