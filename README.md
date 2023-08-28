@@ -1,10 +1,6 @@
 
 . 
 
-![sudi](https://github.com/nancyalaswad90/nancyalaswad90/assets/36210723/14d911cb-bb97-412b-884d-aa35e27b819f)
-
-
-.
 ### Hi there 😄
 
 .
