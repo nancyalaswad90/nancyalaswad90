@@ -10,14 +10,16 @@
 .
 
 
-[CrystalReportViewer1.pdf](https://github.com/nancyalaswad90/nancyalaswad90/files/12479705/CrystalReportViewer1.pdf)
+[GPA for IT](https://github.com/nancyalaswad90/nancyalaswad90/files/12479705/CrystalReportViewer1.pdf)
 
 
 
 .
 
 
-<img width="657" alt="GPA for IT" src="https://github.com/nancyalaswad90/nancyalaswad90/assets/36210723/ce3167d7-45f0-416c-b9f2-68e190cd0483">
+![GPA for IT](https://github.com/nancyalaswad90/nancyalaswad90/assets/36210723/10baf4d7-82e9-4d81-87b6-df48a35a8455)
+
+
 
 .
 
