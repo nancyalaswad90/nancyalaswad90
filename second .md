@@ -21,6 +21,11 @@
 
 ![GPA for IT](https://github.com/nancyalaswad90/nancyalaswad90/assets/36210723/10baf4d7-82e9-4d81-87b6-df48a35a8455)
 
+.
+
+
+![IT - 3](https://github.com/nancyalaswad90/nancyalaswad90/assets/36210723/557076e7-5ff8-4336-904b-326c46da45cf)
+
 
 
 .
