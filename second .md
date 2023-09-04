@@ -22,9 +22,6 @@
 .
 
 
-> ## [GPA for IT](https://github.com/nancyalaswad90/nancyalaswad90/files/12479705/CrystalReportViewer1.pdf)
-
-
 
 
 > ##  In this section, I present my grades for all the courses registered at Arab Open University  (( AOU ))  along with their grades.
