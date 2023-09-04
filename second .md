@@ -29,6 +29,11 @@
 .
 
 
+![IT - 2](https://github.com/nancyalaswad90/nancyalaswad90/assets/36210723/c9e51c39-0b44-4bda-bb17-6d65679ddc18)
+
+.
+
+
 
 ![IT - 3](https://github.com/nancyalaswad90/nancyalaswad90/assets/36210723/557076e7-5ff8-4336-904b-326c46da45cf)
 
