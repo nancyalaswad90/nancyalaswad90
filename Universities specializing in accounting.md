@@ -6,9 +6,13 @@
 
 
 
-
+.
 
 > ##  A Ph.D. in Accounting.
+
+.
+
+![PHD 00](https://github.com/nancyalaswad90/nancyalaswad90/assets/36210723/7e9ffe67-70bd-455b-ab42-7ef5eb8892f6)
 
 
 .
