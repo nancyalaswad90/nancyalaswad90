@@ -7,6 +7,11 @@
 
 
 
+> ## My final Grades  (( GPA )) followed by Transcripts and Academic Plan section
+
+
+
+
 .
 
 
@@ -15,6 +20,7 @@
 
 
 
+In this section, I present my grades for all the courses registered at AOU  along with their grades.
 
 .
 
