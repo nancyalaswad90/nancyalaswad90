@@ -37,10 +37,6 @@
 .
 
 
-<img width="347" alt="IT - 3" src="https://github.com/nancyalaswad90/nancyalaswad90/assets/36210723/5370adbb-045f-466f-b39a-dc5224b8c8cb">
-<img width="379" alt="IT - 1" src="https://github.com/nancyalaswad90/nancyalaswad90/assets/36210723/1b496de4-f7cf-4430-8ac2-d697e0ddd00a">
-<img width="326" alt="IT - 2" src="https://github.com/nancyalaswad90/nancyalaswad90/assets/36210723/4b9bc73d-500e-4864-ac2e-bbe9460abed3">
-
 
 .
 
