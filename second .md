@@ -17,6 +17,9 @@
 
 ![GPA for IT](https://github.com/nancyalaswad90/nancyalaswad90/assets/36210723/10baf4d7-82e9-4d81-87b6-df48a35a8455)
 
+.
+
+> ## [GPA is 87 ](https://gpacalculator.net/gpa-scale/3-2-gpa/)
 
 
 .
