@@ -8,9 +8,6 @@
 .
 
 
-<img width="649" alt="Gpt" src="https://github.com/nancyalaswad90/nancyalaswad90/assets/36210723/0810e903-0188-43cc-baa0-83d2f7af755a">
-
-.
 
 > ## My final Grades  (( GPA )) followed by Transcripts and Academic Plan section
 
@@ -24,6 +21,9 @@
 
 .
 
+![Gpt](https://github.com/nancyalaswad90/nancyalaswad90/assets/36210723/ff3f9abc-87c5-4ed7-a8ce-6602065ebc55)
+
+.
 
 
 
