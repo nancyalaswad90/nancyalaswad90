@@ -3,7 +3,7 @@
 .
 
 
- # [Arab Open University //  Information Technology and Computing Nancy](https://sisksa.aou.edu.kw/OnlineServicesJOR/Index.aspx) [ismeal ](https://mdl.arabou.edu.kw/jordan/) 
+ # [Arab Open University //  Information Technology and Computing Nancy](https://sisksa.aou.edu.kw/OnlineServicesJOR/Index.aspx) 
 
 
 
@@ -101,3 +101,6 @@
  
  
  .
+
+
+**[ismeal ](https://mdl.arabou.edu.kw/jordan/) **
