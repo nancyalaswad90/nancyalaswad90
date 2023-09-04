@@ -72,10 +72,13 @@
 
 > ## First Term (( 10/2022 - 2023  )) 
 
-![image](https://user-images.githubusercontent.com/36210723/188271436-908390f9-fd71-42d2-b7d9-a09701489854.png)
+.
+
 
 ![First Term](https://github.com/nancyalaswad90/nancyalaswad90/assets/36210723/d082b270-d162-4cdc-8483-52d9e2bcb0cc)
 
+
+.
 
 > ## > ## Second Term  (( 2/2022 )) 
 
