@@ -1,3 +1,3 @@
 
 
-> # Universities specializing in accounting.md
+> # Universities specializing in accounting
