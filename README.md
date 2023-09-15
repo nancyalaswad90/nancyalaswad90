@@ -10,7 +10,7 @@
 . 
 
 
-- Currently, she is pursuing a [Ph.D.  `Accounting`](https://grades.wise.edu.jo/student.php) at the World Islamic Sciences and Education University, further solidifying her expertise in the financial domain. 
+- Currently, she is pursuing a [Ph.D.  `Accounting`](https://grades.wise.edu.jo/student.php) at the **[World Islamic Sciences and Education University](https://learn.wise.edu.jo/mlms/my/)**, further solidifying her expertise in the financial domain. 
 
 
 - Concurrently, she is also engaged in her second master's degree program, in Cyber Security, which she is studying at Irbid University. after being done with her second bachelor's degree program, in Information Technology and Computing, which she took at the Arab Open University. 
