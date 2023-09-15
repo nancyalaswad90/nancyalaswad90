@@ -13,7 +13,7 @@
 - Currently, she is pursuing a [Ph.D.  `Accounting`](https://grades.wise.edu.jo/student.php) at the **[World Islamic Sciences and Education University](https://learn.wise.edu.jo/mlms/my/)**, further solidifying her expertise in the financial domain. 
 
 
-- Concurrently, she is also engaged in her second master's degree program, in Cyber Security, which she is studying at Irbid University. after being done with her second bachelor's degree program, in Information Technology and Computing, which she took at the Arab Open University. 
+- Concurrently, she is also engaged in her second master's degree program, in Cyber Security, which she is studying at Irbid University. after being done with her second bachelor's degree program, [`Information Technology and Computing`](https://github.com/nancyalaswad90/nancyalaswad90/blob/master/second%20.md) , which she took at the Arab Open University. 
 
 
 - In addition to her financial and computing pursuits, she is also working on a third educational journey, obtaining a diploma in Medical Laboratory studies from a reputable college. 
