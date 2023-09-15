@@ -10,7 +10,17 @@
 . 
 
 
+- Currently, she is pursuing a Ph.D. in Accounting at the World Islamic Sciences and Education University, further solidifying her expertise in the financial domain. 
 
+
+- Concurrently, she is also engaged in her second master's degree program, in Cyber Security, which she is studying at Irbid University. after being done with her second bachelor's degree program, in Information Technology and Computing, which she took at the Arab Open University. 
+
+
+- In addition to her financial and computing pursuits, she is also working on a third educational journey, obtaining a diploma in Medical Laboratory studies from a reputable college. 
+
+.
+
+> **This multi-faceted approach to education showcases her commitment to expanding her knowledge across diverse fields of science.**
 
 
 
