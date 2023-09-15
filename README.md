@@ -16,7 +16,7 @@
 - Concurrently, she is also engaged in her second master's degree program, in Cyber Security, which she is studying at Irbid University. after being done with her second bachelor's degree program, [`Information Technology and Computing`](https://github.com/nancyalaswad90/nancyalaswad90/blob/master/second%20.md) , which she took at the [Arab Open University](https://github.com/nancyalaswad90/Each-Year-Study-Schedule/blob/main/README.md). 
 
 
-- In addition to her financial and computing pursuits, she is also working on **[the third](https://github.com/nancyalaswad90/Each-Year-Study-Schedule/blob/main/README.md)** educational journey, obtaining a diploma in  [`Medical Laboratory`](https://github.com/nancyalaswad90/Medical-Laboratory/blob/main/README.md)  studies from a reputable college. 
+- In addition to her financial and computing pursuits, she is also working on **[the third](https://github.com/nancyalaswad90/Each-Year-Study-Schedule/blob/main/README.md)** educational journey, obtaining a diploma in  **[`Medical Laboratory`](https://github.com/nancyalaswad90/Medical-Laboratory/blob/main/README.md)** studies from a reputable college. 
 
 .
 
@@ -24,16 +24,6 @@
 
 
 
-.
-
-
----------------------
-
-
-> Nowadays she is studying [Ph.D.  `Accounting`](https://grades.wise.edu.jo/student.php) in  the **[World Islamic Sciences and Education University](https://learn.wise.edu.jo/mlms/my/)** to continue **the finance path** and study [`Information Technology and Computing`](https://github.com/nancyalaswad90/nancyalaswad90/blob/master/second%20.md)  at **Arab Open University** as **[the second](https://github.com/nancyalaswad90/Each-Year-Study-Schedule/blob/main/README.md) Bachelor study path** and  [`Medical Laboratory`](https://github.com/nancyalaswad90/Medical-Laboratory/blob/main/README.md)   diploma **college** as **[the third](https://github.com/nancyalaswad90/Each-Year-Study-Schedule/blob/main/README.md) study path.**
-
-
---------------------------------------
 .
 
 
