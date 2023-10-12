@@ -13,11 +13,9 @@
 
 .
 
-<img width="325" alt="nancy It" src="https://github.com/nancyalaswad90/nancyalaswad90/assets/36210723/5b3037ce-3ff8-4de2-81fe-4ac0815792d0">
 
 
-.
-
+<img width="1006" alt="nancy It github" src="https://github.com/nancyalaswad90/nancyalaswad90/assets/36210723/f5c9d0f1-384e-4239-bf7a-fb3bc315f9d0">
 
 
 .
