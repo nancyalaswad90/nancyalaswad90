@@ -13,6 +13,14 @@
 
 .
 
+<img width="325" alt="nancy It" src="https://github.com/nancyalaswad90/nancyalaswad90/assets/36210723/5b3037ce-3ff8-4de2-81fe-4ac0815792d0">
+
+
+.
+
+
+
+.
 
 
 ![GPA for IT](https://github.com/nancyalaswad90/nancyalaswad90/assets/36210723/10baf4d7-82e9-4d81-87b6-df48a35a8455)
