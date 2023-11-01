@@ -89,7 +89,7 @@
 | **😄Academic Certification**|
  | ------------ |
 
-| **[SQL](https://github.com/nancyalaswad90/nancyalaswad90/blob/master/Certification%20as%20Oracle%20developer%20professional%20.md)** | **[Python](https://github.com/nancyalaswad90/nancyalaswad90/blob/master/Python%20Certifications.md)** | ------------ | **[Statistics](https://github.com/nancyalaswad90/Statistics/blob/main/README.md)** | [Tableau ](https://github.com/nancyalaswad90/Tableau) |
+| **[SQL](https://github.com/nancyalaswad90/nancyalaswad90/blob/master/Certification%20as%20Oracle%20developer%20professional%20.md)** | **[Python](https://github.com/nancyalaswad90/nancyalaswad90/blob/master/Python%20Certifications.md)** | [C++]() | **[Statistics](https://github.com/nancyalaswad90/Statistics/blob/main/README.md)** | [Tableau ](https://github.com/nancyalaswad90/Tableau) |
 |------------ |------------ | ------------ | ------------ |------------ |
 |------------ |------------ | ------------ | ------------ |------------ |
 |------------ |------------ | ------------ | ------------ |------------ |
