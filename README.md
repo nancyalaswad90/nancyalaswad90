@@ -92,10 +92,10 @@
 
 | **[SQL](https://github.com/nancyalaswad90/nancyalaswad90/blob/master/Certification%20as%20Oracle%20developer%20professional%20.md)** | **[Python](https://github.com/nancyalaswad90/nancyalaswad90/blob/master/Python%20Certifications.md)** | [C++]() | **[Statistics](https://github.com/nancyalaswad90/Statistics/blob/main/README.md)** | [Tableau ](https://github.com/nancyalaswad90/Tableau) |
 |------------ |------------ | ------------ | ------------ |------------ |
-|  [Power BI](https://github.com/nancyalaswad90/nancyalaswad90/blob/master/Power%20BI%20tool.md) | **[Java](https://github.com/nancyalaswad90/Project-for-Vehicle-Accident-Application/blob/main/README.md)**  |  [GitHub Discussions](https://docs.github.com/en/discussions/guides/granting-higher-permissions-to-top-contributors) | **[WordPress  ](https://github.com/nancyalaswad90/WordPress)** | **[AWS ](https://github.com/nancyalaswad90/AWS-Training/blob/main/README.md)** | ------------ |
+|  [Power BI](https://github.com/nancyalaswad90/nancyalaswad90/blob/master/Power%20BI%20tool.md) | **[Java](https://github.com/nancyalaswad90/Project-for-Vehicle-Accident-Application/blob/main/README.md)**  |  [GitHub Discussions](https://docs.github.com/en/discussions/guides/granting-higher-permissions-to-top-contributors) | **[WordPress  ](https://github.com/nancyalaswad90/WordPress)** | [OpenRefine](https://openrefine.org/)  | ------------ |
 | ------------ | ------------ | ------------ | ------------ | ------------ |
-| [OpenRefine](https://openrefine.org/) | ------------ | ------------ | ------------ | ------------ |
-| ------------ | ------------ | ------------ | ------------ | ------------ |
+| ----------- | ------------ | ------------ | ------------ | ------------ |
+| **[AWS ](https://github.com/nancyalaswad90/AWS-Training/blob/main/README.md)** | ------------ | ------------ | ------------ | ------------ |
 | ------------ | ------------ | ------------ | ------------ | ------------ |
 
 .
