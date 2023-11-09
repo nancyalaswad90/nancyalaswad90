@@ -95,25 +95,10 @@
 |  [Power BI](https://github.com/nancyalaswad90/nancyalaswad90/blob/master/Power%20BI%20tool.md) | [Web scraping](https://github.com/nancyalaswad90/Web-scraping/blob/main/README.md) |  [GitHub Discussions](https://docs.github.com/en/discussions/guides/granting-higher-permissions-to-top-contributors) | **[WordPress  ](https://github.com/nancyalaswad90/WordPress)** | [OpenRefine](https://openrefine.org/)  | [Web scraping](https://github.com/nancyalaswad90/Web-scraping/blob/main/README.md) |
 | ------------ | ------------ | ------------ | ------------ | ------------ |
 | ----------- | ------------ | ------------ | ------------ | ------------ |
-| **[AWS ](https://github.com/nancyalaswad90/AWS-Training/blob/main/README.md)** | **[Java](https://github.com/nancyalaswad90/Project-for-Vehicle-Accident-Application/blob/main/README.md)**  | ------------ | ------------ | ------------ |
+| **[AWS ](https://github.com/nancyalaswad90/AWS-Training/blob/main/README.md)** | **[Java](https://github.com/nancyalaswad90/Project-for-Vehicle-Accident-Application/blob/main/README.md)**  | [Math ](https://github.com/nancyalaswad90/Math)  | **[Azure ](https://github.com/nancyalaswad90/Azure)**  | ------------ |
 | ------------ | ------------ | ------------ | ------------ | ------------ |
 
 .
-
-| **😄 Languages and tools**|
- | ------------ | 
-
-|  | 2| 3 | 4| 5 | 6| 7 | **HTML**| **CSS**|**JavaScript**| **R** | 
-| ------------ | ------------ | ------------ |------------ | ------------ | ------------ |------------ | ------------ | ------------ |------------ |------------ |
-**[Azure ](https://github.com/nancyalaswad90/Azure)** | ---------- |--- | [Math ](https://github.com/nancyalaswad90/Math) | ------------ |------------ | ------------ | ------------ |------------ |------------ |
-
-
-
-
-=============================================
-.
-
-
 
 
 
