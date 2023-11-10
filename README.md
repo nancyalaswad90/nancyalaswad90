@@ -24,7 +24,7 @@
 
 
 
->Her aim is to [gain knowledge and experience](https://drive.google.com/file/d/1T6pg_WyQUBjfYHtJBEhBCTQRj66oOAEo/view?usp=sharing) to **merge computer science with life vital aspects** then share the advantages with others.Also, she works with `Udacity` as [Mentor  , Reviewer, and Data Analyst Session Lead](https://github.com/nancyalaswad90/My-Career-Progress-as-Mentor-in-Udacity) to support the learners in their studying journey. 
+>Her aim is to [gain knowledge and experience](https://drive.google.com/file/d/1T6pg_WyQUBjfYHtJBEhBCTQRj66oOAEo/view?usp=sharing) to **merge computer science with life vital aspects** then share the advantages with others.Also, she works with `Udacity` as [Mentor, Reviewer, and Data Analyst Session Lead](https://github.com/nancyalaswad90/My-Career-Progress-as-Mentor-in-Udacity) to support the learners in their studying journey. 
 
 
 .
@@ -81,10 +81,10 @@
 | **😄 Languages and tools**|
  | ------------ |
 
-| **[SQL](https://github.com/nancyalaswad90/nancyalaswad90/blob/master/Certification%20as%20Oracle%20developer%20professional%20.md)** | **[Python](https://github.com/nancyalaswad90/nancyalaswad90/blob/master/Python%20Certifications.md)** | [C++]() | **[Statistics](https://github.com/nancyalaswad90/Statistics/blob/main/README.md)** | [Tableau ](https://github.com/nancyalaswad90/Tableau) | ------------ | ------------ |
+| **[SQL](https://github.com/nancyalaswad90/nancyalaswad90/blob/master/Certification%20as%20Oracle%20developer%20professional%20.md)** | **[Python](https://github.com/nancyalaswad90/nancyalaswad90/blob/master/Python%20Certifications.md)** | [C++]() | **[Statistics](https://github.com/nancyalaswad90/Statistics/blob/main/README.md)** | [Tableau ](https://github.com/nancyalaswad90/Tableau) | **[AWS ](https://github.com/nancyalaswad90/AWS-Training/blob/main/README.md)**   | ------------ |
 |------------ |------------ | ------------ | ------------ |------------ | ------------ | ------------ |
 |  [Power BI](https://github.com/nancyalaswad90/nancyalaswad90/blob/master/Power%20BI%20tool.md) | [Web scraping](https://github.com/nancyalaswad90/Web-scraping/blob/main/README.md) |  [GitHub Discussions](https://docs.github.com/en/discussions/guides/granting-higher-permissions-to-top-contributors) | **[WordPress  ](https://github.com/nancyalaswad90/WordPress)** | [OpenRefine](https://openrefine.org/)  | **[Java](https://github.com/nancyalaswad90/Project-for-Vehicle-Accident-Application/blob/main/README.md)** | [Math ](https://github.com/nancyalaswad90/Math)  | **[Azure ](https://github.com/nancyalaswad90/Azure)**  |  **[AWS ](https://github.com/nancyalaswad90/AWS-Training/blob/main/README.md)**  |
-| **HTML**| **CSS**|**JavaScript**| **R** |  **[AWS ](https://github.com/nancyalaswad90/AWS-Training/blob/main/README.md)**  | ------------ |
+| **HTML**| **CSS**|**JavaScript**| **R** |  ------------ | ------------ |
 .
 
 
