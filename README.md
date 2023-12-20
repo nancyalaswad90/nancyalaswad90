@@ -6,7 +6,6 @@
 >  **[Nancy](https://github.com/nancyalaswad90/Each-Year-Study-Schedule/blob/main/README.md) is, a [Ph.D. candidate in Accounting](https://github.com/nancyalaswad90/nancyalaswad90/blob/master/Universities%20specializing%20in%20accounting.md) with nearly 12 years of experience working in a Bank on operational & extracting data, And now she is working in AI, ML, DL,  and DS fields**
 
 > 
-. 
 
 
 - Currently, she is pursuing a [Ph.D.  `Accounting`](https://grades.wise.edu.jo/student.php) at the **[World Islamic Sciences and Education University](https://learn.wise.edu.jo/mlms/my/)**, further solidifying her expertise in the financial domain. After, she successfully completed her `first master's and bachelor's degree` programs in accounting.
