@@ -82,15 +82,7 @@
 ============================================================================
 
 
-> ## First Term (( 10/2022 - 2023  )) 
 
-.
-
-
-![First Term](https://github.com/nancyalaswad90/nancyalaswad90/assets/36210723/d082b270-d162-4cdc-8483-52d9e2bcb0cc)
-
-
-.
 
 > ## > ## Second Term  (( 2/2022 )) 
 
