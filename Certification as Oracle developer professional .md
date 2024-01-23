@@ -14,7 +14,6 @@
 
 .
 
-![3333nnnn](https://user-images.githubusercontent.com/36210723/160532955-94025405-3b80-4879-950b-87b94a727ec0.png) ------![2222nnn](https://user-images.githubusercontent.com/36210723/160533459-d518d4dd-21a0-4930-9874-16f3fb5f1f85.png)------![1111nnn](https://user-images.githubusercontent.com/36210723/160533289-18eb153e-b7c1-45e3-b053-9c6c1620bc23.png)
 
 
 .
@@ -29,6 +28,10 @@
 ![Sql 1](https://github.com/nancyalaswad90/nancyalaswad90/assets/36210723/4a4d08ca-0df0-4d7b-b5a9-8cf0a0f19c59)
 
 
+
+.
+
+![sql 3](https://github.com/nancyalaswad90/nancyalaswad90/assets/36210723/93069e4b-3d0d-4f9d-807e-e113d81ddb3c)
 
 
 
