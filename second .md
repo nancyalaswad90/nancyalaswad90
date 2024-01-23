@@ -100,28 +100,7 @@
 ![second](https://user-images.githubusercontent.com/36210723/153417144-de0c4249-9854-4f57-8111-60701067027c.png)
 
 
-.
 
-
-
-
-> ## First Term (( 10/2021 )) 
-
-.
-
-
-
-![First Tearm](https://user-images.githubusercontent.com/36210723/136666273-f3189e56-cd49-4499-b054-49bceb1b3986.png)
-
-
-
-
-.
-
-
-
-
-> Using for Math : https://www.geogebra.org/u/nancyaswad
 
 
 -------------------------
