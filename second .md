@@ -3,9 +3,23 @@
 ![PMP](https://github.com/nancyalaswad90/nancyalaswad90/assets/36210723/637dcb5c-75d4-4170-beb0-f0653aa75ae6)
 ![Risk 0](https://github.com/nancyalaswad90/nancyalaswad90/assets/36210723/5aeea622-69a6-4fba-b8d3-7f2d27bc89d7)
 ![اكسل 1](https://github.com/nancyalaswad90/nancyalaswad90/assets/36210723/fccbd8b0-799c-43c8-9228-ca2ce87e671e)
-![كشف ماستر 2](https://github.com/nancyalaswad90/nancyalaswad90/assets/36210723/db00157b-345f-4d28-8a4a-8d9206dfea65)
+
+.
+
 ![شهادة ماستر](https://github.com/nancyalaswad90/nancyalaswad90/assets/36210723/d4ee0546-89ab-40b3-b2fc-f8ef6eb092f5)
+
+.
+
 ![كشف ماستر 1](https://github.com/nancyalaswad90/nancyalaswad90/assets/36210723/92cfe966-576f-461e-8747-48067bc4c4cf)
+.
+
+![كشف ماستر 2](https://github.com/nancyalaswad90/nancyalaswad90/assets/36210723/db00157b-345f-4d28-8a4a-8d9206dfea65)
+
+.
+
+
+
+
 ![سوق العملات](https://github.com/nancyalaswad90/nancyalaswad90/assets/36210723/ea2a3217-a757-40ec-ad78-32e393dc6d27)
 ![المبادئ المصرفية](https://github.com/nancyalaswad90/nancyalaswad90/assets/36210723/f5952fc4-535b-442a-851f-781ddc461ac0)
 ![التسويق الالكتروني](https://github.com/nancyalaswad90/nancyalaswad90/assets/36210723/6266dd20-5084-40e8-beb6-bdb417b5df1d)
