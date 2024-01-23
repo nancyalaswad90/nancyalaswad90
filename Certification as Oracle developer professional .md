@@ -16,8 +16,6 @@
 
 
 
-.
-
 
 ![sql 2](https://github.com/nancyalaswad90/nancyalaswad90/assets/36210723/79b59667-9724-48a2-b016-a77a5628e711)
 
@@ -37,6 +35,10 @@
 
 
 ....
+
+  > ###  Also here are my program Certifications training in the center , please  **😊 Click on each link to review the certification Mark**
+
+.
 
 - [Oracle Essentials Application R12](https://github.com/nancyalaswad90/Certifications/blob/main/Oracle%20Essentials%20Application%20R12.md)
 
