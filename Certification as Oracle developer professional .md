@@ -2,7 +2,7 @@
 
 
 
-> ## Programming Certifications
+> ## Programming Certifications  as an Oracle developer professional  ( three levels )
 
 
 
@@ -10,10 +10,6 @@
    
    
 
-- Certification as Oracle developer professional  :
--
--
--
   > ###  [Fundimental](https://github.com/nancyalaswad90/Certifications/blob/main/Certification%20as%20FundimentalOracle%20developer%20professional%20%20.md) & [Pl-Sql.](https://github.com/nancyalaswad90/Certifications/blob/main/Certification%20as%20pl-sql.%20Oracle%20developer%20professional%20.md) & [form](https://github.com/nancyalaswad90/Certifications/blob/main/Certification%20as%20form%20Oracle%20developer%20professional%20.md) , **😊 Click on each link to review the certification Mark**
 
 .
@@ -23,6 +19,12 @@
 
 .
 
+
+![sql 2](https://github.com/nancyalaswad90/nancyalaswad90/assets/36210723/79b59667-9724-48a2-b016-a77a5628e711)
+
+
+
+.
 
 ![Sql 1](https://github.com/nancyalaswad90/nancyalaswad90/assets/36210723/4a4d08ca-0df0-4d7b-b5a9-8cf0a0f19c59)
 
