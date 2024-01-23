@@ -35,6 +35,37 @@
 
 .
 
+> ==========================================================================================
 
 
-![BA](https://github.com/nancyalaswad90/nancyalaswad90/assets/36210723/fb813c06-1f27-4995-9f22-6e707b73a954)
+.
+
+![شهادة بكالوريوس محاسبة](https://github.com/nancyalaswad90/nancyalaswad90/assets/36210723/34c2579e-42b2-4f16-881d-fff1dd9efa19)
+
+
+.
+
+![كشف بكالوريوس محاسبة 1](https://github.com/nancyalaswad90/nancyalaswad90/assets/36210723/fac20021-fed0-4593-a2c6-947e68ddcc52)
+
+.
+
+
+![كشف بكالوريوس محاسبة 02](https://github.com/nancyalaswad90/nancyalaswad90/assets/36210723/ec4006d4-7d77-4fdf-9c5b-591d7f271725)
+
+
+.
+
+
+![كشف بكالوريوس محاسبة 2](https://github.com/nancyalaswad90/nancyalaswad90/assets/36210723/70326f73-97e5-40f8-a153-c2c9fea69744)
+
+
+.
+![كشف بكالوريوس محاسبة 4](https://github.com/nancyalaswad90/nancyalaswad90/assets/36210723/3bb2af13-fa60-42cf-8998-1cb5b47f3ab7)
+
+
+
+
+
+
+.
+
