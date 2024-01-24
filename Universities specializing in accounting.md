@@ -166,11 +166,38 @@
 .
 
 
+> ## Risk-Based Internal Auditing
+
+.
+
+![Risk-Based Internal Auditing](https://github.com/nancyalaswad90/nancyalaswad90/assets/36210723/283de02b-917e-4748-a010-17b86940d1fb)
+
+
+
+.
+
+> ## The 
+
+
+
+.
+
+> ## The 
+
+
+
+.
+
+> ## The 
+
+.
+
+
 ======================================
 
 .
 
-> ## The
+> ## The 
 
 .
 
