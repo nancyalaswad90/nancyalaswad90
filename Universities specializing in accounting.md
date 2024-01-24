@@ -110,6 +110,30 @@
 
 
 .
+.
+
+> ## Jordan CPA (Certified Public Accountant) certification from Sarah Training 
+
+.
+
+
+![Jordan CPA](https://github.com/nancyalaswad90/nancyalaswad90/assets/36210723/4e48f9f7-42de-471f-87ea-0fe7caf40a36)
+
+
+.
+
+> ## The
+
+.
+
+
+
+.
+
+> ## The
+
+.
+
 
 ======================================
 
