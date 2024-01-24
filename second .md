@@ -157,9 +157,60 @@
 
 
 .
+> ## Udacity Certifications  
+.
+
+
+![1](https://github.com/nancyalaswad90/nancyalaswad90/assets/36210723/d216ef41-97d9-46e3-928a-54f091258d1b)
 
 .
 
+
+![2](https://github.com/nancyalaswad90/nancyalaswad90/assets/36210723/6d7e0226-4cd1-44ef-b58b-7c3b67bcb886)
+
+.
+<img width="1006" alt="3" src="https://github.com/nancyalaswad90/nancyalaswad90/assets/36210723/347f0ad5-242c-4764-92e6-0f922a6d6bef">
+
+.
+
+![4](https://github.com/nancyalaswad90/nancyalaswad90/assets/36210723/ed3e69ff-5010-486d-b20c-0def75ea8af9)
+
+.
+
+![5](https://github.com/nancyalaswad90/nancyalaswad90/assets/36210723/68b69879-57b3-447f-8971-eb54f1465c76)
+
+.
+
+![6](https://github.com/nancyalaswad90/nancyalaswad90/assets/36210723/1a190c1c-aafe-4205-8c24-c93e2538ed6c)
+
+.
+
+![7](https://github.com/nancyalaswad90/nancyalaswad90/assets/36210723/d99e1a66-3cd5-4612-9ada-99a61533209b)
+
+.
+
+![8](https://github.com/nancyalaswad90/nancyalaswad90/assets/36210723/60638508-aaaf-443f-9178-d2e8682b8a10)
+
+
+
+
+<img width="1006" alt="9" src="https://github.com/nancyalaswad90/nancyalaswad90/assets/36210723/237e4684-6ba2-4cca-9ac6-a2fc2baa1b45">
+
+
+.
+
+
+<img width="1006" alt="10" src="https://github.com/nancyalaswad90/nancyalaswad90/assets/36210723/148394e1-b914-40e7-89ef-acb4b1171f61">
+
+
+.
+
+<img width="1050" alt="11" src="https://github.com/nancyalaswad90/nancyalaswad90/assets/36210723/a794e949-81ac-44a6-8acc-079bfcf083c9">
+
+
+.
+
+<img width="1006" alt="12" src="https://github.com/nancyalaswad90/nancyalaswad90/assets/36210723/d4629cf9-9b96-4afb-ac76-a336a74faa3d">
 
 .
 > ## Web Page Design for 1400 practice     
