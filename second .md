@@ -72,3 +72,55 @@
 .
 
 
+> ## In Arabic 
+
+
+.
+
+
+![شهادة بكالوريوس تقنية- معادلة](https://github.com/nancyalaswad90/nancyalaswad90/assets/36210723/a2296865-8138-468c-85d3-c2fa1d844d44)
+
+
+.
+
+
+![كشف بكالوريوس تقنية 1](https://github.com/nancyalaswad90/nancyalaswad90/assets/36210723/60be37cf-5f40-4e1c-9bae-57f2a33b601d)
+
+
+
+.
+
+
+![كشف بكالوريوس تقنية2](https://github.com/nancyalaswad90/nancyalaswad90/assets/36210723/8ef9e293-0e17-4738-ada6-578370452b40)
+
+
+
+.
+
+
+![كشف بكالوريوس تقنية 3](https://github.com/nancyalaswad90/nancyalaswad90/assets/36210723/b1d558e6-ec91-4f07-a94a-5feb2f76176a)
+
+
+
+.
+> ## Web Page Design for 1400 practice     
+
+.
+
+![شهادة الويب 1](https://github.com/nancyalaswad90/nancyalaswad90/assets/36210723/afe3b005-f04c-4100-a4fe-e5665cd17639)
+
+
+
+.
+
+
+![شهادة الويب 2](https://github.com/nancyalaswad90/nancyalaswad90/assets/36210723/8c8bf480-3d42-4407-a66b-312b1f68a100)
+
+
+
+.
+
+![برمجيات ](https://github.com/nancyalaswad90/nancyalaswad90/assets/36210723/3f835e72-b2c1-450c-8e05-7bcdf84182a6)
+
+
+.
