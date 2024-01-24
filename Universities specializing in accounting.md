@@ -71,10 +71,28 @@
 
 > ## Financial Analysis Diploma from the Institute of Banking Studies
 
+.
+
 ![CFA](https://github.com/nancyalaswad90/nancyalaswad90/assets/36210723/62fb8b70-750c-4b43-8b48-26743ffcae67)
 
 
 .
+
 > ## Financial Analysis Diploma from the Institute of Banking Studies
 
+.
 ![Financial Analysis Diploma from the Institute of Banking Studiesة](https://github.com/nancyalaswad90/nancyalaswad90/assets/36210723/db27c398-2a00-4303-87a5-9426bd4ae5ce)
+
+
+
+.
+
+> ## The Project Management Professional (PMP) certification program 
+
+.
+
+
+![PMP](https://github.com/nancyalaswad90/nancyalaswad90/assets/36210723/a76b62e8-502e-4b1f-adf5-f6d920d15577)
+
+
+.
