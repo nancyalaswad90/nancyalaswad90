@@ -206,9 +206,16 @@
 
 .
 
-> ## The 
+> ## Banking principles
+
+ 
 
 .
+
+
+
+![Banking principles](https://github.com/nancyalaswad90/nancyalaswad90/assets/36210723/8716d150-aed9-49d8-9189-ae3b1eb48d0f)
+
 
 .
 
