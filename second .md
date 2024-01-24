@@ -38,34 +38,7 @@
 
 
 > ##  In this section, I present my grades for all the courses registered at Arab Open University  (( AOU ))  along with their grades.
-
 .
-
-
-![IT - 1](https://github.com/nancyalaswad90/nancyalaswad90/assets/36210723/7a82a0d7-d661-4dd3-8400-dc317f7c8d79)
-
-
-
-.
-
-
-
-============================================================================
-
-
-.
-
-![IT - 2](https://github.com/nancyalaswad90/nancyalaswad90/assets/36210723/c9e51c39-0b44-4bda-bb17-6d65679ddc18)
-
-.
-
-
-============================================================================
-
-.
-
-
-![IT - 3](https://github.com/nancyalaswad90/nancyalaswad90/assets/36210723/557076e7-5ff8-4336-904b-326c46da45cf)
 
 
 
@@ -100,6 +73,60 @@
 
 ![كشف بكالوريوس تقنية 3](https://github.com/nancyalaswad90/nancyalaswad90/assets/36210723/b1d558e6-ec91-4f07-a94a-5feb2f76176a)
 
+
+
+
+
+.
+
+
+> ## _n English _
+.
+
+
+![IT - 1](https://github.com/nancyalaswad90/nancyalaswad90/assets/36210723/7a82a0d7-d661-4dd3-8400-dc317f7c8d79)
+
+
+
+.
+
+
+
+============================================================================
+
+
+.
+
+![IT - 2](https://github.com/nancyalaswad90/nancyalaswad90/assets/36210723/c9e51c39-0b44-4bda-bb17-6d65679ddc18)
+
+.
+
+
+============================================================================
+
+.
+
+
+![IT - 3](https://github.com/nancyalaswad90/nancyalaswad90/assets/36210723/557076e7-5ff8-4336-904b-326c46da45cf)
+
+
+
+.
+
+
+> ## Oracle Fusion Middleware 11g: Build Applications with Oracle Forms
+.
+
+
+.
+> ##Oracle Database 11g: Program with PL/SQL
+.
+
+                                                       
+.
+
+> ##Oracle Database: SQL Fundamentals I
+.
 
 
 .
