@@ -2,7 +2,7 @@
 .
 
 
-> # Universities specializing in Technology
+> # My specializing in Technology: Universities , Certification, and Training
 
 
 =================================================
