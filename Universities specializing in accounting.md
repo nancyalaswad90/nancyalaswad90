@@ -69,3 +69,6 @@
 
 .
 
+> ## Financial Analysis Diploma from the Institute of Banking Studies
+
+![CFA](https://github.com/nancyalaswad90/nancyalaswad90/assets/36210723/62fb8b70-750c-4b43-8b48-26743ffcae67)
