@@ -185,8 +185,10 @@
 
 .
 
-> ## The 
+> ## Automated trading of foreign currencies - Trading Lab
+.
 
+![Automated trading of foreign currencies - Trading Lab](https://github.com/nancyalaswad90/nancyalaswad90/assets/36210723/b42b10d9-8a5e-49bc-ac0a-3ef6b7acb053)
 
 
 .
