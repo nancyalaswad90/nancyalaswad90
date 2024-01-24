@@ -176,8 +176,11 @@
 
 .
 
-> ## The 
+> ## Unified principles and norms for documentary credits - UCP 600 
 
+
+.
+![Unified principles and norms for documentary credits - UCP 600](https://github.com/nancyalaswad90/nancyalaswad90/assets/36210723/68d8b421-420a-4a0b-a6c1-202b0f95f107)
 
 
 .
