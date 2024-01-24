@@ -2,6 +2,12 @@
 
 > ## Others Certifications
 
+.
+
+
+![Web Design 1](https://github.com/nancyalaswad90/nancyalaswad90/assets/36210723/705e16c0-8a51-4cde-9143-0c0ac23cec2d)
+
+
 
 .
 
@@ -11,13 +17,7 @@
 
 .
 
-
-![Web Design 1](https://github.com/nancyalaswad90/nancyalaswad90/assets/36210723/705e16c0-8a51-4cde-9143-0c0ac23cec2d)
-
-
-.
-
-> ##  Software
+> ##  Software 
 
 .
 
