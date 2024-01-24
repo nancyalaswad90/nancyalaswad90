@@ -156,9 +156,15 @@
 
 .
 
-> ## The
+> ## CIMP"  Certified Internet Marketing Practitioner 
 
 .
+![CIMP  Certified Internet Marketing Practitioner](https://github.com/nancyalaswad90/nancyalaswad90/assets/36210723/91d2efee-f991-4e32-bbbb-d6e8c7ef91a0)
+
+
+
+.
+
 
 ======================================
 
