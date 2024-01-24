@@ -112,20 +112,52 @@
 
 
 .
+> ## Programming Certifications  as an Oracle developer professional  ( three levels )
 
 
-> ## Oracle Fusion Middleware 11g: Build Applications with Oracle Forms
+
+   =======================================
+   
+   
+
+  > ###  [Fundimental](https://github.com/nancyalaswad90/Certifications/blob/main/Certification%20as%20FundimentalOracle%20developer%20professional%20%20.md) & [Pl-Sql.](https://github.com/nancyalaswad90/Certifications/blob/main/Certification%20as%20pl-sql.%20Oracle%20developer%20professional%20.md) & [form](https://github.com/nancyalaswad90/Certifications/blob/main/Certification%20as%20form%20Oracle%20developer%20professional%20.md) , **😊 Click on each link to review the certification Mark**
+
 .
 
 
+> ## Oracle Database: SQL Fundamentals I
+
 .
-> ##Oracle Database 11g: Program with PL/SQL
+
+![Sql 1](https://github.com/nancyalaswad90/nancyalaswad90/assets/36210723/4a4d08ca-0df0-4d7b-b5a9-8cf0a0f19c59)
+
+
+
+.
+
+> ##  Oracle Database 11g: Program with PL/SQL
+
+
+.
+
+![sql 2](https://github.com/nancyalaswad90/nancyalaswad90/assets/36210723/79b59667-9724-48a2-b016-a77a5628e711)
+
+
+
 .
 
                                                        
+> ##  Oracle Fusion Middleware 11g: Build Applications with Oracle Forms   
+
+![sql 3](https://github.com/nancyalaswad90/nancyalaswad90/assets/36210723/93069e4b-3d0d-4f9d-807e-e113d81ddb3c)
+
+
+
+
+
+
 .
 
-> ##Oracle Database: SQL Fundamentals I
 .
 
 
