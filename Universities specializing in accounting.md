@@ -219,13 +219,11 @@
 
 .
 
-> ## The 
+> ## Communication Skills 
 
 .
+ ![communication skills](https://github.com/nancyalaswad90/nancyalaswad90/assets/36210723/ca6e1237-521b-4b58-8ba8-7275c31411a6)
 
-.
-
-> ## The 
 
 .
 
