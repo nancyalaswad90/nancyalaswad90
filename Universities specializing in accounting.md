@@ -143,6 +143,19 @@
 
 .
 
+> ## The Sales Tax Law, its amendments, and applications from the Amman Chamber of Commerce
+
+.
+
+
+
+
+![The Sales Tax Law, its amendments, and applications from the Amman Chamber of Commerce](https://github.com/nancyalaswad90/nancyalaswad90/assets/36210723/16b3ab74-19c4-41c0-be72-10ed14e7be90)
+
+
+
+.
+
 > ## The
 
 .
