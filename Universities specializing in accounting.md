@@ -11,6 +11,16 @@
 
 > ##  A Ph.D. in Accounting.
 
+
+
+.
+
+
+<img width="1011" alt="PHD Final" src="https://github.com/nancyalaswad90/Each-Year-Study-Schedule/assets/36210723/12a68e06-dc16-4006-8d3c-d11046f50a38">
+
+
+
+.
 .
 
 ![PHD 00](https://github.com/nancyalaswad90/nancyalaswad90/assets/36210723/7e9ffe67-70bd-455b-ab42-7ef5eb8892f6)
