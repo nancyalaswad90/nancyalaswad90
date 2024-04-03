@@ -46,6 +46,7 @@
 - 🔭 Nancy completed many programs as **Product Manager, Growth Product Manager, Ux, Data Analyst**, and I share them all  [Here](https://github.com/nancyalaswad90/Udacity-Nanodegree-Certifications)
 
 
+
 - 🌱 She Is currently Practicing  **Math, Machine Learning, Deep Learning, Computer vision**
 
 
