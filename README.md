@@ -18,8 +18,6 @@
 
 
 - In addition to her financial and computing pursuits, she is also working on **[the third](https://github.com/nancyalaswad90/Each-Year-Study-Schedule/blob/main/README.md)** educational journey, obtaining a diploma in  **[`Medical Laboratory`](https://github.com/nancyalaswad90/Medical-Laboratory/blob/main/README.md)** studies from a reputable college. 
-
-
 .
 
 > **This multi-faceted approach to education showcases her commitment to expanding her knowledge across diverse fields of science.**
