@@ -108,7 +108,7 @@
 | **📫 How to reach me**|
  | ------------ | 
  
-|**[linkedin](https://www.linkedin.com/in/nancy-al-aswad-b001b4124/)** | [Toptal ](https://www.toptal.com/screening_wizard) | [wellfound](https://wellfound.com/jobs) | [Seek ](https://www.seek.co.nz/Data-Analyst-jobs) | ---------------- | ------------- |
+|**[linkedin](https://www.linkedin.com/in/nancy-al-aswad-b001b4124/)** | [Toptal ](https://www.toptal.com/screening_wizard) | [wellfound](https://wellfound.com/jobs) | [Seek ](https://www.seek.co.nz/Data-Analyst-jobs) | [Credly ](https://www.credly.com/users/nancyalaswad) | ------------- |
 | ------------ | ------------ | ------------ |------------ | ------------ | ------------ |
 |------------ | ------------ | **[UpWork ](https://www.upwork.com/o/profiles/users/~01aea1b28cadcbe913/)** | **[Guru](https://www.guru.com/pro/ProfileBuild.aspx?tab=5&pscount=0)** | **[Fiverr](https://www.fiverr.com/nancyalaswad?public_mode=true)** | -------------- |
 |**[Kaggle](https://www.kaggle.com/nancyalaswad90)**| **[hackerrank](https://www.hackerrank.com/nancyalaswad90)** | **[freelancer](https://www.freelancer.com/u/nancyalaswad90)** | **[Corporate Finance Institute® (CFI) Profile](https://github.com/nancyalaswad90/Corporate-Finance-Institute-CFI-Profile/blob/main/README.md/)** |**[IMA ](https://github.com/nancyalaswad90/IMA-Accounting-Certifications)** | **[LeetCode](https://leetcode.com/Nancy_Al_Aswad90/)** | [Stack overflow](https://stackoverflow.com/users/12555055/nancy-al-aswad) |
