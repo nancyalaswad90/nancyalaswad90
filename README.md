@@ -107,7 +107,7 @@
 |**[linkedin](https://www.linkedin.com/in/nancy-al-aswad-b001b4124/)** | [Toptal ](https://www.toptal.com/screening_wizard) | [wellfound](https://wellfound.com/jobs) | [Seek ](https://www.seek.co.nz/Data-Analyst-jobs) | [Credly ](https://www.credly.com/users/nancyalaswad) | [wuzzuf](https://wuzzuf.net/search/jobs/?a=navbl&q=data%20analys) |
 | ------------ | ------------ | ------------ |------------ | ------------ | ------------ |
 |------------ | [BrainTrust](https://app.usebraintrust.com/jobs/13445) | **[UpWork ](https://www.upwork.com/o/profiles/users/~01aea1b28cadcbe913/)** | **[Guru](https://www.guru.com/pro/ProfileBuild.aspx?tab=5&pscount=0)** | **[Fiverr](https://www.fiverr.com/nancyalaswad?public_mode=true)** | -------------- |
-|**[Kaggle](https://www.kaggle.com/nancyalaswad90)**| **[hackerrank](https://www.hackerrank.com/nancyalaswad90)** | **[freelancer](https://www.freelancer.com/u/nancyalaswad90)** | **[Corporate Finance Institute® (CFI) Profile](https://github.com/nancyalaswad90/Corporate-Finance-Institute-CFI-Profile/blob/main/README.md/)** |**[IMA ](https://github.com/nancyalaswad90/IMA-Accounting-Certifications)** | **[LeetCode](https://leetcode.com/Nancy_Al_Aswad90/)** | [-------------- ](https://stackoverflow.com/users/12555055/nancy-al-aswad) |
+|**[Kaggle](https://www.kaggle.com/nancyalaswad90)**| **[hackerrank](https://www.hackerrank.com/nancyalaswad90)** | **[freelancer](https://www.freelancer.com/u/nancyalaswad90)** | ------------  |**[IMA ](https://github.com/nancyalaswad90/IMA-Accounting-Certifications)** | **[LeetCode](https://leetcode.com/Nancy_Al_Aswad90/)** | [-------------- ](https://stackoverflow.com/users/12555055/nancy-al-aswad) |
 | [data Camp](https://learn.datacamp.com/career-tracks) | [Google Developers](https://developers.google.com/profile/u/116039305746026612185) | [--------------  ](https://stackoverflow.com/users/12555055/nancy-al-aswad) | [SoloLearn ]() |**[Cisco Networking Academy](https://www.cisco.com/c/m/en_sg/partners/cisco-networking-academy/index.html#~networking-essentials)**|[edx](https://courses.edx.org/dashboard/programs/482dee71-e4b9-4b42-a47b-3e16bb69e8f2/)
 | **[Twitter](https://twitter.com/AswadNancy?s=03/ "Twitter")** | **[Power BI](https://github.com/nancyalaswad90/Power-BI)** | ------------ |------------ | ------------ | ------------ |
 | ------------ | ------------ | ------------ |------------ | ------------ | ------------ |
@@ -120,7 +120,7 @@
 | **📫 How to reach me**|
  | ------------ | 
 
-|**[Kaggle](https://www.kaggle.com/nancyalaswad90)**| **[hackerrank](https://www.hackerrank.com/nancyalaswad90)** | **[LeetCode](https://leetcode.com/Nancy_Al_Aswad90/)**  |  **[Stack overflow](https://stackoverflow.com/users/12555055/nancy-al-aswad)** |------------ | -----[SoloLearn ]()----- |
+|**[Kaggle](https://www.kaggle.com/nancyalaswad90)**| **[hackerrank](https://www.hackerrank.com/nancyalaswad90)** | **[LeetCode](https://leetcode.com/Nancy_Al_Aswad90/)**  |  **[Stack overflow](https://stackoverflow.com/users/12555055/nancy-al-aswad)** |   **[Corporate Finance Institute® (CFI) Profile](https://github.com/nancyalaswad90/Corporate-Finance-Institute-CFI-Profile/blob/main/README.md/)** |  [SoloLearn ]() |
 | ------------ | ------------ | ------------ |------------ | ------------ | ------------ |
 | ------------ | ------------ | ------------ |------------ | ------------ | ------------ |
 .
