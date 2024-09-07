@@ -1,7 +1,6 @@
 .
 
 
-
 > ## Programming Certifications  as an Oracle developer professional  ( three levels )
 
 
