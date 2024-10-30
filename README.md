@@ -22,7 +22,6 @@
 
 
 
-
 > **This multi-faceted approach to education showcases her commitment to expanding her knowledge across diverse fields of science.**
 
 
