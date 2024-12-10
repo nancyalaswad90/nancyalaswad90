@@ -17,7 +17,6 @@
 
 
 
-
 - Concurrently, she is planning to engage in her second master's degree program, in `Cyber Security`, which she may study at Irbid University. after being `done` with her second bachelor's degree program, [`Information Technology and Computing`](https://github.com/nancyalaswad90/nancyalaswad90/blob/master/second%20.md), which she took at the [Arab Open University](https://github.com/nancyalaswad90/Each-Year-Study-Schedule/blob/main/README.md). 
 
 
