@@ -53,6 +53,7 @@
 
 
 
+
 - 🌱 She Is currently Practicing  **Math, Machine Learning, Deep Learning, Computer vision**
 
 
