@@ -13,6 +13,26 @@
 
 
 
+
+- **Current Academic Pursuits:**
+  - Nancy is pursuing a **Ph.D. in Accounting** at the **World Islamic Sciences and Education University**, further solidifying her expertise in the financial domain. She previously completed her **first master's and bachelor's degree programs** in accounting.
+  - In parallel, she is pursuing her **second master's degree in Cybersecurity** at Irbid University, after completing her **second bachelor's degree in Information Technology and Computing** at the **Arab Open University**.
+  - Additionally, Nancy is engaged in a **diploma in Medical Laboratory studies** from a reputable institution, expanding her knowledge in healthcare-related sciences.
+
+This multi-faceted approach to education reflects her commitment to integrating technical expertise with financial and scientific domains.
+
+- **Professional Expertise:**
+  - Nancy has spent **12 years in banking operations**, focusing on streamlining processes and utilizing data for operational efficiency.
+  - For the past **6 years**, she has applied her expertise in **data science**, working on projects involving advanced analytics, predictive modeling, and AI-driven solutions.
+
+Her passion lies in leveraging computer science to address real-world challenges and sharing knowledge with others. Nancy also works with **Udacity** as a **Mentor, Reviewer, and Data Analyst Session Lead**, helping learners navigate their journeys in data science.
+
+
+
+
+==================
+
+
 - Currently, she is pursuing a [Ph.D.  `Accounting`](https://grades.wise.edu.jo/student.php) at the **[World Islamic Sciences and Education University](https://learn.wise.edu.jo/mlms/my/)**, further solidifying her expertise in the financial domain. After, she successfully completed her `first master's and bachelor's degree` programs in accounting.
 
 
