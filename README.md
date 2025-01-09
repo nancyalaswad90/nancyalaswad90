@@ -6,7 +6,7 @@
 
 
 
->  **[Nancy](https://github.com/nancyalaswad90/Each-Year-Study-Schedule/blob/main/README.md) is, a [Ph.D. candidate in Accounting](https://github.com/nancyalaswad90/nancyalaswad90/blob/master/Universities%20specializing%20in%20accounting.md) with nearly `**12 years**` of experience working in banking operations, particularly in extracting and analyzing data, Over the last **six** years, she has specialized in **data science**, applying advanced techniques in AI, ML, DL, and DS to solve complex problems and improve decision-making processes.
+>  **[Nancy](https://github.com/nancyalaswad90/Each-Year-Study-Schedule/blob/main/README.md) is, a [Ph.D. candidate in Accounting](https://github.com/nancyalaswad90/nancyalaswad90/blob/master/Universities%20specializing%20in%20accounting.md) with nearly **`12 years`** of experience working in banking operations, particularly in extracting and analyzing data, Over the last **six** years, she has specialized in **data science**, applying advanced techniques in AI, ML, DL, and DS to solve complex problems and improve decision-making processes.
 
 
 .
