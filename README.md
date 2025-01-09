@@ -14,39 +14,16 @@
 
 
 
-- **Current Academic Pursuits:**
-  - Nancy is pursuing a **Ph.D. in Accounting** at the **World Islamic Sciences and Education University**, further solidifying her expertise in the financial domain. She previously completed her **first master's and bachelor's degree programs** in accounting.
-  - In parallel, she is pursuing her **second master's degree in Cybersecurity** at Irbid University, after completing her **second bachelor's degree in Information Technology and Computing** at the **Arab Open University**.
-  - Additionally, Nancy is engaged in a **diploma in Medical Laboratory studies** from a reputable institution, expanding her knowledge in healthcare-related sciences.
+- **Here Current Academic Pursuits:**
+  - Nancy is pursuing a [Ph.D.  `Accounting`](https://grades.wise.edu.jo/student.php) at the **[World Islamic Sciences and Education University](https://learn.wise.edu.jo/mlms/my/)**, further solidifying her expertise in the financial domain, As she previously completed her **first master's and bachelor's degree programs** in accounting.
+  - In parallel, she is pursuing her **second master's degree program in [Cyber Security](https://lms.inu.edu.jo/my/courses.php)**, at Irbid University, after completing her **second bachelor's degree program, [`Information Technology and Computing`](https://github.com/nancyalaswad90/nancyalaswad90/blob/master/second%20.md)**, which she took at the [Arab Open University](https://github.com/nancyalaswad90/Each-Year-Study-Schedule/blob/main/README.md). 
+  - Additionally, Nancy is engaged in **[the third](https://github.com/nancyalaswad90/Each-Year-Study-Schedule/blob/main/README.md)** educational journey, obtaining a diploma in  **[`Medical Laboratory`](https://github.com/nancyalaswad90/Medical-Laboratory/blob/main/README.md)** studies from a reputable college and [Healthcare Certification](https://github.com/nancyalaswad90/Healthcare-Certification)
 
 This multi-faceted approach to education reflects her commitment to integrating technical expertise with financial and scientific domains.
 
 - **Professional Expertise:**
   - Nancy has spent **12 years in banking operations**, focusing on streamlining processes and utilizing data for operational efficiency.
   - For the past **6 years**, she has applied her expertise in **data science**, working on projects involving advanced analytics, predictive modeling, and AI-driven solutions.
-
-
-
-==================
-
-
-- Currently, she is pursuing a [Ph.D.  `Accounting`](https://grades.wise.edu.jo/student.php) at the **[World Islamic Sciences and Education University](https://learn.wise.edu.jo/mlms/my/)**, further solidifying her expertise in the financial domain. After, she successfully completed her `first master's and bachelor's degree` programs in accounting.
-
-
-.
-
-
-- Concurrently, she is also engaged in her **second master's degree program, in [Cyber Security](https://lms.inu.edu.jo/my/courses.php)**, which she is studying at Irbid University. after being `done` with her **second bachelor's degree program, [`Information Technology and Computing`](https://github.com/nancyalaswad90/nancyalaswad90/blob/master/second%20.md)**, which she took at the [Arab Open University](https://github.com/nancyalaswad90/Each-Year-Study-Schedule/blob/main/README.md). 
-
-
-
-
-
-
-- In addition to her financial and computing pursuits, she is also working on **[the third](https://github.com/nancyalaswad90/Each-Year-Study-Schedule/blob/main/README.md)** educational journey, obtaining a diploma in  **[`Medical Laboratory`](https://github.com/nancyalaswad90/Medical-Laboratory/blob/main/README.md)** studies from a reputable college and [Healthcare Certification](https://github.com/nancyalaswad90/Healthcare-Certification)
-
-
-
 
 
 
