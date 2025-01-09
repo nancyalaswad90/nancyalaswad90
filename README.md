@@ -22,7 +22,9 @@
     
   - Additionally, Nancy is engaged in **[the third](https://github.com/nancyalaswad90/Each-Year-Study-Schedule/blob/main/README.md)** educational journey, obtaining a diploma in  **[`Medical Laboratory`](https://github.com/nancyalaswad90/Medical-Laboratory/blob/main/README.md)** studies from a reputable college and [Healthcare Certification](https://github.com/nancyalaswad90/Healthcare-Certification)
 
-This multi-faceted approach to education reflects her commitment to integrating technical expertise with financial and scientific domains.
+.
+
+> **This multi-faceted approach to education reflects her commitment to integrating technical expertise with financial and scientific domains.**
 
 - **Professional Expertise:**
   - Nancy has spent **12 years in banking operations**, focusing on streamlining processes and utilizing data for operational efficiency.
