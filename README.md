@@ -25,9 +25,6 @@ This multi-faceted approach to education reflects her commitment to integrating 
   - Nancy has spent **12 years in banking operations**, focusing on streamlining processes and utilizing data for operational efficiency.
   - For the past **6 years**, she has applied her expertise in **data science**, working on projects involving advanced analytics, predictive modeling, and AI-driven solutions.
 
-Her passion lies in leveraging computer science to address real-world challenges and sharing knowledge with others. Nancy also works with **Udacity** as a **Mentor, Reviewer, and Data Analyst Session Lead**, helping learners navigate their journeys in data science.
-
-
 
 
 ==================
@@ -58,7 +55,8 @@ Her passion lies in leveraging computer science to address real-world challenges
 
 
 
-> Her aim is to [gain knowledge and experience](https://docs.google.com/document/d/15LPAd65IhZRtEVueTB9dthL4VfUlsZ7c/edit) to **merge computer science with life vital aspects** then share the advantages with others. Also, she works with `Udacity` as [Mentor, Reviewer, and Data Analyst Session Lead](https://github.com/nancyalaswad90/My-Career-Progress-as-Mentor-in-Udacity) to support the learners in their studying journey. 
+
+> Her aim is to [gain knowledge and experience](https://docs.google.com/document/d/15LPAd65IhZRtEVueTB9dthL4VfUlsZ7c/edit) to **merge computer science with life vital aspects** then share the advantages with others. Also, she works with `Udacity` as [Mentor, Reviewer, and Data Analyst Session Lead](https://github.com/nancyalaswad90/My-Career-Progress-as-Mentor-in-Udacity) to support the learners their journeys in **`data science`**
 
 
 .
