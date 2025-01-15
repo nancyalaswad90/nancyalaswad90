@@ -15,4 +15,13 @@
 
 ![statement-of-accomplishment](https://github.com/user-attachments/assets/5a0263ca-ba40-4405-a17a-e2cfb8c91e77)
 
+
+
+
+.
+
+> ## Datacamp ` Introduction to ChatGPT ` Study : 
+
+![image](https://github.com/user-attachments/assets/4e30cfd6-b18c-4475-834a-5c80743e9d7b)
+
 .
