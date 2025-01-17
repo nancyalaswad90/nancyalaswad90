@@ -30,6 +30,7 @@
   - For the past **6 years**, she has applied her expertise in **data science**, working on projects involving advanced analytics, predictive modeling, and AI-driven solutions.
 
 
+
 .
 
 
