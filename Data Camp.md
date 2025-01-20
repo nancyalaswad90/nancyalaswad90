@@ -5,6 +5,20 @@
 
 .
 
+
+
+> ## Datacamp  ` Understanding Prompt Engineering ` Study : 
+>
+
+.
+![image](https://github.com/user-attachments/assets/f3882332-d2f8-4c20-9b13-392ef1c7b402)
+
+
+
+
+.
+
+
 > ## Datacamp  SQL Study : 
 >
 
