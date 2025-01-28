@@ -25,6 +25,7 @@
 
 .
 
+
 > **This multi-faceted approach to education reflects her commitment to integrating technical expertise with financial and scientific domains.**
 
 - **Professional Expertise:**
