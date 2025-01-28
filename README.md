@@ -13,6 +13,7 @@
 - **Here Current Academic Pursuits:**
 
 
+
   
   - Nancy is pursuing a [Ph.D.  `Accounting`](https://grades.wise.edu.jo/student.php) at the **[World Islamic Sciences and Education University](https://learn.wise.edu.jo/mlms/my/)**, further solidifying her expertise in the financial domain, As she previously completed her **first master's and bachelor's degree programs** in accounting.
     
