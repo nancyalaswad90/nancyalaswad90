@@ -29,6 +29,8 @@
 
 > **This multi-faceted approach to education reflects her commitment to integrating technical expertise with financial and scientific domains.**
 
+
+
 - **Professional Expertise:**
   - Nancy has spent **12 years in banking operations**, focusing on streamlining processes and utilizing data for operational efficiency.
   - For the past **6 years**, she has applied her expertise in **data science**, working on projects involving advanced analytics, predictive modeling, and AI-driven solutions.
