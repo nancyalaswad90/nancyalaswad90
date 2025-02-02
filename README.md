@@ -15,7 +15,8 @@
 
   
   - Nancy is pursuing a [Ph.D.  `Accounting`](https://grades.wise.edu.jo/student.php) at the **[World Islamic Sciences and Education University](https://learn.wise.edu.jo/mlms/my/)**, further solidifying her expertise in the financial domain, As she previously completed her **first master's and bachelor's degree programs** in accounting.
-  - 
+ 
+  
     
   - In parallel, she is pursuing her **second master's degree program in [Cyber Security](https://lms.inu.edu.jo/my/courses.php)**, at Irbid University, after completing her **second bachelor's degree program, [`Information Technology and Computing`](https://github.com/nancyalaswad90/nancyalaswad90/blob/master/second%20.md)**, which she took at the [Arab Open University](https://github.com/nancyalaswad90/Each-Year-Study-Schedule/blob/main/README.md).
 
