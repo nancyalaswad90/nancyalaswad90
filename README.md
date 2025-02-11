@@ -12,7 +12,6 @@
 .
 
 
-
 - **Here Current Academic Pursuits:**
 
 
