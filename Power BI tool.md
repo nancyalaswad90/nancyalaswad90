@@ -17,6 +17,7 @@
 
 - [Power BI documentation](https://learn.microsoft.com/en-us/power-bi/)
 
+- [linkedin ](https://www.linkedin.com/posts/ahmed-shefoo_microsoftfabric-powerbi-dataanalytics-activity-7320177900576501760-Xqon?utm_source=social_share_send&utm_medium=android_app&rcm=ACoAAB6kKDABwjQpJtHzA4MwCLRNaOLN7ZAvmag&utm_campaign=whatsapp)
 
 .
 
