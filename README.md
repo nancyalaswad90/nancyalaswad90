@@ -6,7 +6,6 @@
 [Scholar Google](https://scholar.google.com/citations?hl=ar&user=FYCHA3cAAAAJ&view_op=list_works&gmla=AH8HC4xH3aR_5E1SGnlVUGYk2XgxOy8xM5sp_OTvl5G-6kEc4DArkJgX3ApPY4L_8x8bC6oJME0qA8BWqHGpckFpI7ZR1TjF8at_OpduXsurQ1CPiJQBW2rz) , [ResearchGate](https://www.researchgate.net/signup.SignUpRequested.html?token=l7AgY985EInJ9Bl-GYD3dvWsWxfo55QKpUUTPqb3o-rgM3Kv2Peihm-9_3SEh0ykh_c8kcVzC1otsciTcYSz-hPGBgM_LbJXRphgMwm10pxO5816vEpguab0DPbUe9nm2DqqLD3butnZqYNEXw&utm_medium=email&utm_source=researchgate&utm_campaign=re294&loginT=CvwLtwDwNKPohZS05wJGa-xkI_coLSowmf0_QG0j8CKozyo05dO2b3BNpD5kBW_V0tFaqDPAZ4xw4juy-jCsM2wW&utm_term=re294_x&utm_content=re294_x_p2&cp=re294_x_p2&uid=dAzeGHgurSDLtky0RYqRDTmiWJWgmrK29Odf&ch=reg)
 
 
-
 ### Hi there 😄
 
 .
