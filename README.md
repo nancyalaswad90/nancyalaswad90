@@ -135,25 +135,14 @@
 
 
 | **📫 Daily Work for Continuous Progress**|
- | ------------------- | 
-
-| -- |  | |   |    |  [SoloLearn ]() |
-| [greenhouse](https://my.greenhouse.io/profile) | ------------ |------------ | ------------ | ------------ | ----------- | | [IBM Cognitive Class](https://cognitiveclass.ai/profile/NancyAlAswad) | [365 financi alanalyst](https://learn.365financialanalyst.com/) |  [Code Signal](https://learn.codesignal.com/my-learning) | ------------ | ------------ |
-.
-
-
-Daily Work for Continuous Progress
-| **💡  Annual Intenship**|
-.
-
-| **📫 Daily Work for Continuous Progress**|
  | ------------ | 
 
 | **[Kaggle](https://www.kaggle.com/nancyalaswad90)** | **[hackerrank](https://www.hackerrank.com/nancyalaswad90)** |  **[LeetCode](https://leetcode.com/Nancy_Al_Aswad90/)**  | **[Stack overflow](https://stackoverflow.com/users/12555055/nancy-al-aswad)**  | **[LeetCode](https://leetcode.com/Nancy_Al_Aswad90/)** | **[Corporate Finance Institute® (CFI) Profile](https://github.com/nancyalaswad90/Corporate-Finance-Institute-CFI-Profile/blob/main/README.md/)** |
 | ------------- | ------------ | ------------ |------------ | ------------ | ------------ |
-| **[Manara work ](https://app.manara.tech/certificates)** | ------------ | ------------ |------------ | ------------ | ------------ |
+| **[Manara work ](https://app.manara.tech/certificates)** | **[SoloLearn ]()** | **[greenhouse](https://my.greenhouse.io/profile)** | **[IBM Cognitive Class](https://cognitiveclass.ai/profile/NancyAlAswad)** | **[365 financi alanalyst](https://learn.365financialanalyst.com/)** | ------------* |
 | ------------- | ------------ | ------------ |------------ | ------------ | ------------ |
-
+| ** [Code Signal](https://learn.codesignal.com/my-learning)* | ------------ | ------------ |------------ | ------------ | ------------ |
+| ------------- | ------------ | ------------ |------------ | ------------ | ------------ |
 
 .
 
