@@ -141,7 +141,7 @@
 | ------------- | ------------ | ------------ |------------ | ------------ | ------------ |
 | **[Manara work ](https://app.manara.tech/certificates)** | **[SoloLearn ]()** | **[greenhouse](https://my.greenhouse.io/profile)** | **[IBM Cognitive Class](https://cognitiveclass.ai/profile/NancyAlAswad)** | **[365 financi alanalyst](https://learn.365financialanalyst.com/)** | ------------* |
 | ------------- | ------------ | ------------ |------------ | ------------ | ------------ |
-| ** [Code Signal](https://learn.codesignal.com/my-learning)* | ------------ | ------------ |------------ | ------------ | ------------ |
+| ** [Code Signal](https://learn.codesignal.com/my-learning)** | ------------ | ------------ |------------ | ------------ | ------------ |
 | ------------- | ------------ | ------------ |------------ | ------------ | ------------ |
 
 .
