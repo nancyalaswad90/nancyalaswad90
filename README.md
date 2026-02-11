@@ -118,14 +118,6 @@
 
 .
 
-|![Nancy's github stats](https://github-readme-stats.vercel.app/api?username=nancyalaswad90&show_icons=true&theme=algolia&count_private=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nancyalaswad90&theme=algolia)|
-| ------------ | ------------ | 
-
-
-.
-
-
-
 | **📫 How to reach me**|
  | ------------ | 
  
