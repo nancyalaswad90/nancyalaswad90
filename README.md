@@ -137,8 +137,8 @@
 | **📫 Daily Work for Continuous Progress**|
  | ------------------- | 
 
-| -- |  | |  **[Stack overflow](https://stackoverflow.com/users/12555055/nancy-al-aswad)** |   **[Corporate Finance Institute® (CFI) Profile](https://github.com/nancyalaswad90/Corporate-Finance-Institute-CFI-Profile/blob/main/README.md/)** |  [SoloLearn ]() |
-| [greenhouse](https://my.greenhouse.io/profile) | ------------ |------------ | ------------ | ------------ | ----------- |[Manara work ](https://app.manara.tech/certificates) | [IBM Cognitive Class](https://cognitiveclass.ai/profile/NancyAlAswad) | [365 financi alanalyst](https://learn.365financialanalyst.com/) |  [Code Signal](https://learn.codesignal.com/my-learning) | ------------ | ------------ |
+| -- |  | |   |    |  [SoloLearn ]() |
+| [greenhouse](https://my.greenhouse.io/profile) | ------------ |------------ | ------------ | ------------ | ----------- | | [IBM Cognitive Class](https://cognitiveclass.ai/profile/NancyAlAswad) | [365 financi alanalyst](https://learn.365financialanalyst.com/) |  [Code Signal](https://learn.codesignal.com/my-learning) | ------------ | ------------ |
 .
 
 
@@ -149,8 +149,8 @@ Daily Work for Continuous Progress
 | **📫 Daily Work for Continuous Progress**|
  | ------------ | 
 
-| **[Kaggle](https://www.kaggle.com/nancyalaswad90)** | **[hackerrank](https://www.hackerrank.com/nancyalaswad90)** |  **[LeetCode](https://leetcode.com/Nancy_Al_Aswad90/)**  |**[GOOGLE CAREER Certifications](https://grow.google/certificates/?utm_source=gDigital&utm_medium=programgn&utm_campaign=gn&utm_content&utm_term#?modal_active=none)**  | **[LeetCode](https://leetcode.com/Nancy_Al_Aswad90/)** | **[Microsoft & LinkedIn  Certifications](https://www.elmin7a.com/free-courses-offered-by-microsoft-and-linkedin-with-free-certificates/)** |
-| ------------- | ------------ | ------------ |------------ | ------------ | ------------ |
+| **[Kaggle](https://www.kaggle.com/nancyalaswad90)** | **[hackerrank](https://www.hackerrank.com/nancyalaswad90)** |  **[LeetCode](https://leetcode.com/Nancy_Al_Aswad90/)**  | **[Stack overflow](https://stackoverflow.com/users/12555055/nancy-al-aswad)**  | **[LeetCode](https://leetcode.com/Nancy_Al_Aswad90/)** | **[Corporate Finance Institute® (CFI) Profile](https://github.com/nancyalaswad90/Corporate-Finance-Institute-CFI-Profile/blob/main/README.md/)** |
+| **[Manara work ](https://app.manara.tech/certificates)** | ------------ | ------------ |------------ | ------------ | ------------ |
 | ------------- | ------------ | ------------ |------------ | ------------ | ------------ |
 
 
