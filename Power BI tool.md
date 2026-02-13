@@ -5,7 +5,7 @@
 | **Online Education Platforms**|
  | ------------ | 
 
-| **[Udacity ]()** | [ Coursera ](https://www.coursera.org/programs/open-access-guyana-ngeor/professional-certificates/microsoft-power-bi-data-analyst) |**[Data Camp]()** |  **[Edureka ]()**|  **[Great Learning Academy]()**| **[Kaggle/ ]()**| 
+| **[Udacity ]()** | [ Coursera ](https://www.coursera.org/programs/open-access-guyana-ngeor/professional-certificates/microsoft-power-bi-data-analyst) |**[Data Camp](https://app.datacamp.com/certification/get-started)** |  **[Edureka ]()**|  **[Great Learning Academy]()**| **[Kaggle/ ]()**| 
 | ------------ | ------------ | ------------ |------------ | ------------ | ------------ |
 
 
