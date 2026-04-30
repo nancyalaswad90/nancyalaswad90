@@ -164,7 +164,4 @@
 
 .
 
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/e245e632-60b4-46cc-bff0-69c4418071a2" />
 
-
-.
