@@ -61,9 +61,7 @@
 .
 
 
-> ![gitwork](https://user-images.githubusercontent.com/36210723/94987193-0053d400-056d-11eb-97d2-f0319bbe27f6.jpg)
-
-<img width="912" height="1162" alt="image" src="https://github.com/user-attachments/assets/cee45e7c-a1e0-4b5d-a528-9240a5b14e40" />
+> <img width="912" height="1162" alt="image" src="https://github.com/user-attachments/assets/cee45e7c-a1e0-4b5d-a528-9240a5b14e40" />
 
 
 .
