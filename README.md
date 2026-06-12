@@ -17,7 +17,6 @@
 
 >  **[Nancy](https://github.com/nancyalaswad90/Each-Year-Study-Schedule/blob/main/README.md)** is, a [Ph.D. candidate in Accounting](https://github.com/nancyalaswad90/nancyalaswad90/blob/master/Universities%20specializing%20in%20accounting.md) with nearly **`12 years`** of experience working in banking operations, particularly in extracting and analyzing data, Over the last **`eight years`**, she has specialized in **`data science`**, applying advanced techniques in AI, ML, DL, and DS to solve complex problems and improve decision-making processes.
 
-
 <img width="912" height="1162" alt="image" src="https://github.com/user-attachments/assets/cee45e7c-a1e0-4b5d-a528-9240a5b14e40" />
 
 
@@ -65,6 +64,7 @@
 
 
 > ![gitwork](https://user-images.githubusercontent.com/36210723/94987193-0053d400-056d-11eb-97d2-f0319bbe27f6.jpg)
+
 
 .
 
