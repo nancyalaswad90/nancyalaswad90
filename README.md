@@ -61,10 +61,6 @@
 .
 
 
-> <img width="912" height="1162" alt="image" src="https://github.com/user-attachments/assets/cee45e7c-a1e0-4b5d-a528-9240a5b14e40" />
-
-
-.
 
 - 🔭 Nancy completed many programs as **Product Manager, Growth Product Manager, Ux, Data Analyst**, and I share them all  [Here](https://github.com/nancyalaswad90/Udacity-Nanodegree-Certifications)
 
